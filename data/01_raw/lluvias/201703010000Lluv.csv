@@ -1,0 +1,1302 @@
+LON,LAT,EDO,CLAVE,ESTACION,mar-17
+-102.309722,21.895,AGS,AGSAG,"Aguascalientes, Ags.",5.3
+-102.585833,22.177222,AGS,ALMAG,"Alamitos, Ags.",16
+-102.464167,22.188611,AGS,ANVAG,"Cincuenta Aniversario, Ags.",5
+-102.184167,21.738611,AGS,BRTAG,"San Bartolo, Ags.",7.5
+-102.712222,21.849167,AGS,CALVILLO,"Calvillo, Ags. SMN*",0
+-102.676944,21.9975,AGS,CDRAG,"La Codorniz, Ags.",4.5
+-102.197222,22.007222,AGS,CHOAG,"Cañada Honda, Ags.",9.5
+-102.711667,21.836667,AGS,CLVAG,"Calvillo, Ags.",4.1
+-101.9925,21.897778,AGS,CNSAG,"Los Conos, Ags.",14.6
+-102.296944,22.362778,AGS,CSOAG,"Cosío, Ags.",4.2
+-102.356944,22.121667,AGS,JCQAG,"Jocoque, Ags.",5.2
+-102.788333,21.8075,AGS,MNLAG,"Media Luna, Ags.",2.82
+-102.371667,21.780556,AGS,NGRAG,"El Niágara, Ags.",5.1
+-102.001944,22.020556,AGS,NVLAG,"El Novillo, Ags.",8.5
+-102.290556,21.850833,AGS,OBSAG,"Observatorio de Aguascalientes, Ags.",6.3
+-101.966667,21.916667,AGS,PALAG,"Palo Alto, Ags.",16
+-102.279167,22.147222,AGS,PBLAG,"Pabellón, Ags.",3.5
+-102.417222,22.141111,AGS,PECAG,"Plutarco Elías Calles, Ags.",4.5
+-102.135,22.202778,AGS,PTOAG,"Puerto de la Concepción, Ags.",2.5
+-102.4375,22.235,AGS,PTRAG,"Derivadora Pabellón, Ags.",36.7
+-102.608611,22.269722,AGS,SIERRAFRIA,"Sierra Fría, Ags. SMN*",14.6
+-102.109167,21.885,AGS,SNVAG,"Sandovales, Ags.",0
+-102.127778,21.807778,AGS,TNJAG,"La Tinaja 2, Ags.",9
+-102.318611,21.915556,AGS,UNIVERSIDAD,"Universidad, Ags. INIFAP*",14.2
+-102.0675,22.097778,AGS,VJZAG,"Villa Juárez, Ags.",4.1
+-116.908333,32.444722,BC,ALRBN,"Abelardo L. Rodríguez, B.C.",2.51
+-114.719167,29.727222,BC,CATAVINA,"Cataviña, B.C. SMN*",0
+-116.696944,32.479444,BC,CRRBN,"El Carrizo, B.C.",12.7
+-116.821111,32.472222,BC,EFLBN,"El Florido, B.C.",11.41
+-116.6025,31.890278,BC,ELZBN,"Emilio López Zamora, B.C.",4.51
+-115.15,32.411111,BC,ENLBN,"Observatorio de Ejido Nuevo León, B.C.",2
+-116.302778,32.516389,BC,HNGBN,"El Hongo, B.C.",5.7
+-115.466667,32.55,BC,MXCBN,"Mexicali, B.C.",0.01
+-114.729444,32.703889,BC,PDMBN,"Presa derivadora Morelos, B.C.",1
+-117.071389,32.3775,BC,PLAYAROSARITO,"Playa Rosarito, B.C. SMN*",2.4
+-116.678333,32.543889,BC,PRTBN,"La Puerta, B.C.",15
+-116.64,31.704444,BC,PTBBN,"Punta Banda, B.C.",8.4
+-114.839444,31.029167,BC,SFLBN,"Observatorio de San Felipe, B.C.",0
+-114.3,27.1425,BCS,ASUBS,"Bahía Asunción, B.C.S.",0
+-111.663611,25.009722,BCS,CCNBS,"Observatorio de Ciudad Constitución, B.C.S.",0
+-109.925833,22.8975,BCS,CSLBS,"Cabo San Lucas, B.C.S.",0
+-113.457778,27.643611,BCS,DORBS,"Díaz Ordaz, B.C.S.",0.8
+-109.697222,23.680556,BCS,LBABS,"Los Barriles, B.C.S.",0
+-110.366667,24.15,BCS,LPZBS,"Observatorio de La Paz, B.C.S.",1.5
+-111.349167,26.011667,BCS,LRTBS,"Observatorio de Loreto, B.C.S.",0.2
+-111.983056,26.896111,BCS,MLGBS,"Mulegé, B.C.S.",0
+-109.934167,23.9675,BCS,PLNBS,"Los Planes, B.C.S.",1.5
+-109.591389,23.593056,BCS,RBRBS,"La Ribera, B.C.S.",1.01
+-110.059167,23.805,BCS,SANBS,"San Antonio Sur, B.C.S.",2.5
+-109.995,24.083889,BCS,SARBS,"El Sargento, B.C.S.",0
+-109.843889,23.738333,BCS,SBABS,"San Bartolo, B.C.S.",10
+-112.111111,24.791667,BCS,SCRBS,"Puerto San Carlos, B.C.S.",0
+-109.708333,23.118889,BCS,SJCBS,"San José del Cabo, B.C.S.",0
+-109.998611,23.555556,BCS,SLAGUNA,"Sierra La Laguna, B.C.S. SMN*",0
+-112.332778,26.629167,BCS,SMTBS,"San Martín, B.C.S.",0
+-109.713611,23.490278,BCS,SNTBS,"Santiago, B.C.S.",3.2
+-110.210556,23.478889,BCS,TSNBS,"Todos Santos, B.C.S.",0.01
+-89.743889,20.003889,CAMP,BOLCA,"Bolonchen, Camp.",0
+-90.575556,19.295,CAMP,CANCA,"Canasayab, Camp.",0.01
+-91.761389,18.654167,CAMP,CARCA,"El Carmen, Camp.",24.9
+-90.72,19.361667,CAMP,CHMCA,"Champotón, Camp.",1.02
+-90.558889,19.830556,CAMP,CMPCA,"Campeche, Camp.",4
+-91.046111,18.184444,CAMP,CNDCA,"Candelaria, Camp.",0.02
+-90.5075,19.836389,CAMP,COBCA,"Observatorio de Campeche, Camp.",0
+-90.741111,18.604444,CAMP,ESCCA,"Escárcega, Camp.",12.8
+-90.105556,20.184167,CAMP,HECCA,"Hecelchakán, Camp.",5
+-89.848333,19.751944,CAMP,HPOCA,"Hopelchén, Camp.",0
+-90.221389,19.605833,CAMP,NYXCA,"Noh Yaxché, Camp.",0
+-92.091944,18.253056,CAMP,PLZCA,"Palizada, Camp.",0
+-91.175833,18.972778,CAMP,SBNCA,"Sabancuy, Camp.",22.71
+-89.859167,19.664444,CAMP,XCPCA,"Xcupil, Camp.",0
+-89.396111,18.502222,CAMP,XPJCA,"Xpujil, Camp.",0.5
+-107.482778,28.481667,CHIH,AGZCH,"Abraham González, Chih.",6.5
+-107.255556,28.771667,CHIH,BACCH,"Bachíniva, Chih.",0
+-108.206389,28.208889,CHIH,BSSCH,"Basaseachi, Chih.",10.3
+-107.723611,27.033611,CHIH,BTPCH,"Batopilas, Chih.",5.51
+-107.9,27.9,CHIH,BTVCH,"Batovira, Chih.",22
+-106.484722,28.802778,CHIH,C08099,"Majalca, Chih.",1
+-108.092778,29.251944,CHIH,C08219,"Peñitas, Chih.",8
+-107.6975,28.759722,CHIH,C08243,"Tejolocachi, Chih.",1.5
+-105.963611,28.773333,CHIH,C08270,"La Mesa, Chih.",0
+-107.930833,30.376667,CHIH,CAGCH,"Observatorio de Nuevo Casas Grandes, Chih.",0.6
+-106.84,28.396667,CHIH,CDCUAUHTEMOC,"Ciudad Cuauhtémoc, Chih. SMN*",1.8
+-105.446944,28.210833,CHIH,CDLCH,"Ciudad Delicias, Chih.",1
+-108.535556,27.392222,CHIH,CHICH,"Chínipas, Chih. SMN*",3.05
+-108.544722,27.430278,CHIH,CHINIPASCFE,"Chínipas, Chih. CFE*",8.4
+-106.400278,31.736667,CHIH,CJZCH,"Ciudad Juárez, Chih.",0
+-108.541667,27.416667,CHIH,CNDCH,"Chínipas, Chih.",17.11
+-105.382222,27.576389,CHIH,COLINA,"Colina, Chih. SGT*",0
+-106.119444,28.614722,CHIH,ERECH,"El Rejón, Chih.",0.81
+-105.628889,28.166111,CHIH,FIMCH,"Las Vírgenes, Chih.",2
+-107.072222,26.816667,CHIH,GCCCH,"Guachochi, Chih. SMN*",13.2
+-108.3,29.2,CHIH,GPCCH,"Guapoca, Chih.",0.02
+-107.320556,26.677222,CHIH,GRCCH,"Guerachi, Chih.",3.51
+-107.879167,26.870833,CHIH,IGNCH,"San Ignacio, Chih.",4.5
+-108.427222,30.838889,CHIH,JANOS,"Janos, Chih. SMN*",1.2
+-104.912778,27.126667,CHIH,JMNCH,"Jiménez, Chih.",26.7
+-105.414167,27.544722,CHIH,LBQCH,"La Boquilla, Chih.",8.5
+-107.025833,29.88,CHIH,LJSCH,"Las Lajas, Chih.",0
+-105.28,28.984444,CHIH,LLNCH,"El Granero, Chih.",0.01
+-107.994167,27.858611,CHIH,MAGCH,"Maguarichi, Chih. SMN*",29.47
+-106.486111,28.803333,CHIH,MAJALCA,"Cumbres de Majalca, Chih. SMN*",0
+-104.410833,29.565,CHIH,OJNCH,"Ojinaga, Chih.",1.01
+-105.254167,26.546389,CHIH,PAGCH,"Pico del Aguila, Chih.",52.05
+-105.675556,26.917778,CHIH,PRRCH,"Observatorio de Parral, Chih.",3.25
+-106.085556,28.656944,CHIH,QIJCH,"Observatorio de Chihuahua, Chih.",0.81
+-106.383333,26.466667,CHIH,RVGCH,"El Vergel, Chih.",17.22
+-107.973333,26.9425,CHIH,TB2CH,"Tubares 2, Chih.",2.8
+-107.6975,28.759722,CHIH,TEJCH,"Tejolocachi, Chih.",1.5
+-107.816667,28.95,CHIH,TEMOSACHICob,"Observatorio de Temósachic, Chih. SMN*",4.8
+-107.85,28.95,CHIH,TMCCH,"Observatorio de Temósachic, Chih.",4.7
+-107.384167,29.5625,CHIH,TNTCH,"El Tintero, Chih.",0.01
+-107.9125,27.216667,CHIH,URECH,"Urique, Chih.",4.71
+-105.16,26.738611,CHIH,VICCH,"Villa Coronado, Chih.",52.05
+-106.505,30.615556,CHIH,VILLAAHUMADA,"Villa Ahumada, Chih. SMN*",0
+-105.806944,27.454444,CHIH,VZRCH,"Valle de Zaragoza, Chih.",8.01
+-108.166667,29.666667,CHIH,YEPCH,"Yepachic, Chih.",3
+-92.804167,16.552778,CHIS,ACACP,"Acala, Chis.",0
+-92.034722,16.737778,CHIS,ALTAMIRANO,"Altamirano, Chis. SGT*",40.6
+-92.778889,16.401389,CHIS,ANGCP,"Doctor Belisario Domínguez, Chis.",0
+-93.8975,16.241111,CHIS,AROCP,"Observatorio de Arriaga, Chis.",0
+-92.874722,17.189444,CHIS,ARROYOGRANDE,"Arroyo Grande, Chis. SGT*",0
+-93.427222,17.253611,CHIS,AZAPACCFE,"Aza Pac, Chis. CFE*",68.1
+-93.15,16.641944,CHIS,BOQCP,"Boquerón, Chis.",0
+-92.731389,15.365556,CHIS,CACCP,"Cacaluta, Chis.",47.71
+-92.479167,16.308333,CHIS,CASCP,"Cascajal, Chis.",1.7
+-92.483056,15.969167,CHIS,CATARINITAS,"Catarinitas, Chis. SGT*",0
+-93.117222,16.757778,CHIS,CENTRO2APTE,"Centro Segunda Poniente, Chis. SGT*",0
+-91.703333,17.472222,CHIS,CHACAMAX,"Chacamax, Chis. SGT*",35.4
+-92.281389,15.750278,CHIS,CHICOMUSELO,"Chicomuselo, Chis. SGT*",1.4
+-93.100556,16.941667,CHIS,CHICP,"Manuel Moreno Torres, Chis.",0
+-92.283333,15.75,CHIS,CHMCP,"Chicomuselo, Chis.",0.3
+-93.466944,16.441389,CHIS,COBREGONCFE,"Cristóbal Obregón, Chis. CFE*",0
+-92.133333,16.233333,CHIS,COMITANob,"Observatorio de Comitán, Chis. SMN*",0.6
+-92.1,16.2,CHIS,COOCP,"Observatorio de Comitán, Chis.",0.72
+-92.135556,16.224444,CHIS,CREDCOMITAN,"Cred Comitán, Chis. PC*",0.5
+-92.246111,15.356667,CHIS,CREDMOTOZINTLA,"Cred Motozintla, Chis. SMN*",3.55
+-93.15,16.730556,CHIS,CRISTALTV,"Cristal TV Azteca, Chis. SGT*",0.2
+-92.864444,16.038611,CHIS,CUXTEPEQUESCFE,"Cuxtepeques, Chis. CFE*",0
+-92.938056,15.881944,CHIS,CUXTEPEQUESHM,"Finca Cuxtepeques hidrométrica, Chis. SGT*",13.8
+-92.575,15.204167,CHIS,DESCP,"Despoblado, Chis.",57.71
+-92.925278,16.108333,CHIS,DORADOCFE,"El Dorado, Chis. CFE*",2.6
+-92.590833,16.686111,CHIS,ELAGUAJE,"El Aguaje, Chis. SGT*",14.6
+-92.95,15.495833,CHIS,ELNCP,"El Novillero, Chis.",63.01
+-92.655833,15.330833,CHIS,ESCCP,"Escuintla, Chis.",64.51
+-92.918333,17.441389,CHIS,FIMADERO,"Francisco I. Madero, Chis. SGT*",41.7
+-93.125,16.975,CHIS,GRICP,"Grijalva, Chis.",0
+-92.402778,14.997222,CHIS,HUECP,"Huehuetán, Chis.",47.8
+-92.472222,15.133333,CHIS,HUICP,"Huixtla, Chis.",102.49
+-92.454167,16.712778,CHIS,HUIXTAN,"Huixtán, Chis. SGT*",15
+-92.471389,15.146944,CHIS,HUIXTLA,"Huixtla, Chis. SGT*",205
+-92.72,15.886111,CHIS,JALTENANGO,"Jaltenango, Chis. SGT*",0
+-92.725,15.866667,CHIS,JAPCP,"Jaltenango, Chis.",0
+-93.381389,17.364167,CHIS,JDGCP,"Juan de Grijalva, Chis.",112.12
+-93.381389,17.364167,CHIS,JGRIJALVACFE,"Túneles Juan de Grijalva, Chis. CFE*",73.6
+-92.898611,15.996389,CHIS,JSBCP,"Juan Sabines, Chis.",0
+-90.702222,16.580833,CHIS,LACCP,"Lacantún, Chis.",43
+-93.560278,16.692778,CHIS,LASFLORESCFE,"Las Flores, Chis. CFE*",0.1
+-93.561111,16.695833,CHIS,LFLCP,"Las Flores, Chis.",0
+-91.73,16.114444,CHIS,LMONTEBELLO,"Lagunas de Montebello, Chis. SMN*",1.8
+-93.28,17.96,CHIS,MACAYOMI,"Macayo Margen Izquierda, Chis. SGT*",1.2
+-93.598889,17.178611,CHIS,MALCP,"Nezahualcóyotl, Chis.",49.6
+-93.604722,17.199444,CHIS,MALPASOCFE,"Malpaso, Chis. CFE*",47.8
+-92.883333,15.45,CHIS,MAPCP,"Mapastepec, Chis.",25.51
+-93.091389,16.7225,CHIS,MUCH,"Museo de Chiapas de Ciencia y Tecnología, Chis. SGT*",0
+-93.150556,17.220556,CHIS,OCOCP,"Ocotepec, Chis.",36.6
+-92.3375,16.851111,CHIS,OXCHUC,"Oxchuc, Chis. SGT*",32.6
+-93.087778,16.760278,CHIS,PARQUEOTE,"Parque Oriente, Chis. SGT*",0.3
+-91.968056,15.848611,CHIS,PCOCP,"Puente Concordia, Chis.",0
+-93.458611,17.446111,CHIS,PENCP,"Ángel Albino Corzo, Chis.",107.82
+-93.474444,17.463611,CHIS,PENITAS,"Peñitas, Chis. SGT*",51.3
+-92.649167,16.725278,CHIS,PTEMORELOS,"Puente Morelos, Chis. SGT*",3.2
+-92.618056,16.7475,CHIS,QUIOSCO,"Quiosco, Chis. SGT*",2.4
+-93.552778,17.348333,CHIS,RCACP,"Rómulo Calzada, Chis.",55.1
+-92.666667,15.916667,CHIS,REFCP,"Reforma, Chis.",0.6
+-93.030278,17.413333,CHIS,REFUGIOCP,"El Refugio, Chis. SGT*",26
+-93.079167,16.158333,CHIS,REVCP,"Revolución Mexicana, Chis.",0
+-94.003889,16.471111,CHIS,RSACP,"Rosendo Salazar, Chis.",0.4
+-92.35,17.566667,CHIS,SAACP,"Salto de Agua, Chis.",81.7
+-93.128889,16.790278,CHIS,SANJUANSEMIN,"San Juan Seminario, Chis. SGT*",0
+-93.231111,16.373611,CHIS,SANTUARIOCFE,"Santuario, Chis. CFE*",0
+-93.383333,17.425,CHIS,SAYCP,"Sayula, Chis.",64.81
+-92.603056,16.727222,CHIS,SCCASASCFE,"San Cristóbal de las Casas, Chis. CFE*",11.2
+-92.633333,16.733333,CHIS,SCOCP,"Observatorio de San Cristóbal, Chis.",7.01
+-92.616667,16.741667,CHIS,SCRCP,"Puente Morelos, Chis.",11.12
+-93.056389,16.4525,CHIS,SDOCP,"Santo Domingo, Chis.",0
+-93.1,16.786111,CHIS,SECTEC103,"Secundaria Técnica 103, Chis. SGT*",0
+-92.321944,15.558056,CHIS,SILTEPEC,"Siltepec, Chis. SGT*",22.2
+-92.308333,17.028611,CHIS,SITALA,"Sitala, Chis. SGT*",2.8
+-93.085,17.561111,CHIS,SJOCP,"San Joaquín, Chis.",123.3
+-92.239444,15.775,CHIS,SMICP,"San Miguel, Chis.",0.4
+-93.591111,16.152222,CHIS,SMORENACFE,"Sierra Morena, Chis. CFE*",0.4
+-92.820833,16.938889,CHIS,SNACP,"Santa María, Chis.",27
+-92.731389,17.035556,CHIS,SPNICHTALUCUM,"San Pedro Nichtalucum, Chis. SGT*",4.1
+-93.034167,16.742778,CHIS,SUMIDEROCFE,"Cañón del Sumidero, Chis. CFE*",0
+-92.243333,14.99,CHIS,TAMCP,"Tapachula Malpaso, Chis.",67.7
+-92.260556,14.908056,CHIS,TAPCP,"Tapachula, Chis.",58.5
+-93.545833,15.875,CHIS,TPICP,"Tres Picos, Chis.",6
+-93.0575,16.736111,CHIS,TRABAJOSOCIAL,"Trabajo Social, Chis. SGT*",0
+-93.577778,16.227222,CHIS,TRESPICOSCFE,"Tres Picos, Chis. CFE*",3.3
+-93.1,16.761944,CHIS,TUXCP,"Tuxtla Oriente, Chis.",0
+-93.086111,16.761667,CHIS,TUXTLACFE,"Tuxtla, Chis. CFE*",0.3
+-93.133333,16.75,CHIS,TXOCP,"Observatorio de Tuxtla Gutiérrez, Chis.",0
+-93.414167,17.231111,CHIS,TZIMBACCFE,"Tzimbac, Chis. CFE*",29.7
+-93.121944,16.778056,CHIS,UNICACH,"Universidad de Ciencias y Artes de Chiapas, Chis. SGT*",0
+-92.909722,17.178333,CHIS,UNIVERSIDADLIND,"Universidad Lindavista, Chis. SMN*",7.77
+-93.330556,17.116667,CHIS,YAMCP,"Yamonhó, Chis.",18.61
+-91.729722,16.909167,CHIS,YAQUINTELA,"Yaquintela, Chis. SGT*",32
+-100.837222,28.344444,COAH,ADLCL,"Allende, Coah.",9.02
+-101.057222,29.446944,COAH,AMSCL,"Internacional La Amistad, Coah.",25.5
+-100.929722,25.561111,COAH,ARACL,"Ramos Arizpe Aeropuerto, Coah.",17.2
+-102.064444,26.983333,COAH,CCGCL,"Cuatro Ciénegas, Coah.",2.01
+-100.950278,29.327778,COAH,CDACL,"Ciudad Acuña, Coah.",18.01
+-100.95,29.213611,COAH,CNTCL,"El Centenario, Coah.",20
+-103.469167,25.542222,COAH,CYTCL,"Coyote, Coah.",8.5
+-100.920833,25.436111,COAH,ESLCL,"Secretaría de Agricultura Saltillo, Coah.",16.6
+-103.283889,25.068056,COAH,LFLDR,"La Flor, Coah.",12
+-101.4225,26.908333,COAH,MCVCL,"Observatorio de Monclova, Coah.",5.5
+-100.566667,28.683056,COAH,PNEGRASob,"Observatorio de Piedras Negras, Coah. SMN*",12
+-100.5325,28.706667,COAH,PNGCL,"Observatorio de Piedras Negras, Coah.",16.8
+-101.002222,27.422222,COAH,PRSCL,"Progreso, Coah.",15
+-100.575556,25.273333,COAH,SAACL,"San Antonio de las Alazanas, Coah.",82
+-101.016667,25.376389,COAH,SALCL,"Observatorio de Saltillo, Coah.",31.2
+-101.016667,25.376389,COAH,SALTILLOob,"Observatorio de Saltillo, Coah. SMN*",30.2
+-101.122778,27.846667,COAH,SBNCL,"Sabinas, Coah.",16.51
+-100.953889,29.034167,COAH,SMGCL,"San Miguel, Coah.",17
+-103.699722,27.285278,COAH,SMJCL,"Sierra Mojada, Coah.",14
+-102.979444,25.7575,COAH,SPECL,"San Pedro, Coah.",8.32
+-101.016667,25.376389,COAH,STOCL,"Saltillo, Coah.",20.1
+-103.45,25.541667,COAH,TORCL,"Observatorio de Torreón, Coah.",6.31
+-103.45,25.533333,COAH,TORREONob,"Observatorio de Torreón, Coah. SMN*",6
+-100.616111,27.515,COAH,VCRCL,"Venustiano Carranza, Coah.",22.02
+-103.613333,19.249722,COL,BVSCM,"Buenavista, Col.",0
+-103.726389,18.758611,COL,CDOCM,"Cerro de Ortega, Col.",0
+-103.702778,19.295,COL,CHNCM,"El Chanal, Col.",0
+-103.626111,18.826389,COL,CLLCM,"Callejones, Col.",0
+-103.720833,19.218333,COL,CMDCM,"Observatorio de Colima, Col.",0
+-103.757222,19.3175,COL,CMLCM,"Comala, Col.",1.5
+-103.809167,19.204722,COL,CQMCM,"Coquimatlán, Col.",0
+-103.605,19.322222,COL,CUACM,"Cuauhtémoc, Col.",7.9
+-103.884167,19.112222,COL,DJLCM,"Presa derivadora Gregorio T. Q. Jala, Col.",0
+-103.868056,19.171667,COL,LAECM,"La Esperanza, Col.",0
+-103.773889,18.803056,COL,LDACM,"Laguna de Amela, Col.",0
+-104.316667,19.046389,COL,MANZANILLOob,"Observatorio de Manzanillo, Col. SMN*",0
+-104.318611,19.044167,COL,MNZCM,"Observatorio de Manzanillo, Col.",0
+-103.8125,19.3275,COL,PNTCM,"Presa derivadora Peñitas, Col.",1.8
+-104.1,18.936111,COL,RDRCM,"Radar, Col.",0
+-103.700833,19.408333,COL,SCHCM,"Suchitlán, Col.",0
+-103.855833,18.908056,COL,TCMCM,"Tecomán, Col.",0
+-103.663333,19.2775,COL,TRPCM,"Trapiche, Col.",4
+-99.210278,19.218611,DF,AJSDF,"Ajusco, Cd. de Méx.",29.1
+-99.171667,19.453333,DF,CBIDF,"Escuela Nacional de Ciencias Biológicas IPN, Cd. de Méx. SMN*",14.93
+-99.180556,19.346667,DF,CCUDF,"Universidad, Cd. de Méx.",20.5
+-98.999444,19.357222,DF,CDMDF,"Cárcel de Mujeres, Cd. de Méx.",25.2
+-99.1125,19.407778,DF,CDVDF,"Ciudad Deportiva, Cd. de Méx.",16.5
+-99.1375,19.516667,DF,CEADF,"Campamento Amealco, Cd. de Méx.",18.8
+-99.1375,19.469722,DF,CMTDF,"Avenida Cien Metros, Cd. de Méx.",36.4
+-99.183333,19.486389,DF,CMYDF,"Campamento Mecoaya, Cd. de Méx.",20.7
+-99.19,19.3375,DF,CONAGUAOFC,"Conagua Oficinas Centrales, Cd. de Méx SGT*",30.4
+-99.196389,19.403611,DF,CTMDF,"Observatorio de Tacubaya, Cd. de Méx.",10
+-99.09,19.190278,DF,CTNDF,"San Salvador Cuauhtenco, Cd. de Méx.",29.3
+-99.09,19.484167,DF,CYLDF,"Coyol, Cd. de Méx.",79.48
+-99.205556,19.304722,DF,DATDF,"Desviación Alta, Cd. de Méx.",0
+-99.131389,19.431111,DF,DDFDF,"Gobierno de la Ciudad de México, Cd. de Méx.",0
+-99.309167,19.313333,DF,DTLDF,"Desierto de los Leones, Cd. de Méx.",12.5
+-99.151944,19.300556,DF,EAZDF,"Estadio Azteca, Cd. de Méx.",11.1
+-99.286389,19.3625,DF,EYQDF,"El Yaqui, Cd. de Méx.",21.5
+-99.352222,19.295,DF,EZCDF,"El Zarco, Méx.",7.5
+-99.091667,19.478056,DF,GCNDF,"km 6+250 del Gran Canal, Cd. de Méx.",17.2
+-99.2625,19.308056,DF,HYTDF,"Huayatla, Cd. de Méx.",14.4
+-99.066667,19.377778,DF,LU4DF,"Lumbrera Cuatro Ríos El Moral, Cd. de Méx.",0
+-99.3,19.340556,DF,LVNDF,"La Venta, Cd. de Méx.",31.8
+-99.283333,19.216667,DF,MAGDF,"Monte Alegre, Cd. de Méx.",8.9
+-99.133889,19.403333,DF,MCRDF,"Marcos Carrillo, Cd. de Méx.",37.26
+-99.021944,19.190556,DF,MLPDF,"Milpa Alta, Cd. de Méx.",19.6
+-99.233056,19.187778,DF,MZTDF,"Planta Abasolo Mezontepec, Cd. de Méx.",26.5
+-99.096389,19.316389,DF,OCSDF,"Organismo de Cuenca Aguas del Valle de México Sur, Cd. de Méx.",31.95
+-99.100278,19.379167,DF,PBADF,"Planta de bombeo Aculco, Cd. de Méx.",2.2
+-99.057778,19.433333,DF,PBCDF,"Planta de bombeo Churubusco Lago, Cd. de Méx.",25.4
+-99.119444,19.486667,DF,PBLDF,"Planta de bombeo Lindavista, Cd. de Méx.",25.8
+-99.037778,19.38,DF,PBODF,"Planta de bombeo U.H. Ejército de Oriente, Cd. de Méx.",16.5
+-99.170556,19.435556,DF,PBTDF,"Planta de bombeo Tizoc, Cd. de Méx.",46.07
+-99.2,19.413056,DF,PCHDF,"Planta Chapultepec, Cd. de Méx.",19.8
+-99.097222,19.455833,DF,PGNDF,"Planta Generadora 101, Cd. de Méx.",26.6
+-99.076389,19.336944,DF,PLEDF,"Planta de Tratamiento Cerro de La Estrella, Cd. de Méx.",28
+-99.068333,19.420278,DF,PLMDF,"Planta de bombeo López Mateos, Cd. de Méx.",17.4
+-99.126389,19.365278,DF,PMLDF,"Planta de bombeo Municipio Libre, Cd. de Méx.",20.5
+-99.090833,19.246389,DF,PNTDF,"Planta Nativitas, Cd. de Méx.",20.7
+-99.264722,19.288611,DF,PRMDF,"Planta de Tratamiento Río de La Magdalena, Cd. de Méx.",6.3
+-99.154444,19.513056,DF,PRRDF,"Planta de Tratamiento Río Remedios, Cd. de Méx.",18.96
+-99.023056,19.299167,DF,PSCDF,"Planta de Tratamiento Santa Catarina, Cd. de Méx.",28.9
+-99.05,19.233333,DF,PSLDF,"Planta San Luis, Cd. de Méx.",22.2
+-99.163889,19.468889,DF,PSNDF,"Planta de bombeo Nueva Santa María, Cd. de Méx.",30
+-99.171111,19.263056,DF,PSPDF,"Pueblo San Pedro Mártir, Cd. de Méx.",19.7
+-99.190278,19.509167,DF,PTRDF,"Planta de Tratamiento Rosario, Cd. de Méx.",22.3
+-99.126111,19.285833,DF,PVCDF,"Planta de bombeo Villa Coapa, Cd. de Méx.",35.6
+-99.143056,19.331944,DF,PXTDF,"Planta de bombeo Xotepingo, Cd. de Méx.",23.3
+-99.194167,19.296111,DF,RBTDF,"Rebombeo Bosque de Tlalpan, Cd. de Méx.",13.7
+-99.17,19.4,DF,RCMDF,"Radiocomunicación, Cd. de Méx.",27.1
+-99.275,19.328611,DF,SBADF,"San Bartolo Ameyalco, Cd. de Méx.",16.8
+-99.028889,19.338333,DF,SCMDF,"Rebombeo La Quebradora Santa Cruz Meyehualco, Cd. de Méx.",7.7
+-99.122222,19.572222,DF,SGDDF,"Sierra Guadalupe, Cd. de Méx.",10.9
+-99.066667,19.466667,DF,SJADF,"San Juan de Aragón, Cd. de Méx.",16.4
+-99.009722,19.281389,DF,SPPDF,"San Pedro Tláhuac, Cd. de Méx.",31.9
+-99.1425,19.556111,DF,TCMDF,"Tanque Chalmita, Cd. de Méx.",17.7
+-99.272222,19.373056,DF,TECDF,"Tanque el Cartero, Cd. de Méx.",14.2
+-99.220833,19.337778,DF,TELDF,"Tanque el Lienzo, Cd. de Méx.",26.7
+-99.099722,19.385,DF,TEZDF,"Tezontle, Cd. de Méx. SMN*",8.13
+-99.211667,19.399167,DF,TNGDF,"Triángulo, Cd. de Méx.",12.2
+-99.135833,19.199444,DF,TPJDF,"Topilejo, Cd. de Méx.",21.1
+-99.084722,19.440833,DF,TPNDF,"Tanque Peñón, Cd. de Méx.",14.6
+-99.2125,19.361944,DF,TRGDF,"Tarango, Cd. de Méx.",17
+-99.248611,19.316667,DF,TSFDF,"Tanque San Francisco, Cd. de Méx.",30.9
+-99.228611,19.436389,DF,TSJDF,"Tanque San Joaquín, Cd. de Méx.",16.9
+-99.264444,19.359722,DF,TSLDF,"Santa Fe Santa Lucía, Cd. de Méx.",20.8
+-98.970833,19.210278,DF,TTLDF,"Tetelco, Cd. de Méx.",13
+-104.066111,25.263333,DGO,AM2DR,"Agustín Melgar, Dgo. SMN*",7.5
+-104.7,24,DGO,CAGDR,"Campo Agrícola, Dgo.",28.2
+-104.810278,24.540278,DGO,CBRDR,"Caboraca, Dgo.",21.7
+-104.121111,24.4375,DGO,CGVDR,"Ciudad Guadalupe Victoria, Dgo.",23
+-103.521667,25.533333,DGO,CLRDR,"Ciudad Lerdo, Dgo.",14.5
+-103.698889,24.871944,DGO,CNCDR,"Cuencamé, Dgo.",19.3
+-104.782778,24.518333,DGO,CNTDR,"Canatlán, Dgo.",36.9
+-104.599722,24.094722,DGO,DURANGOob,"Observatorio de Durango, Dgo. SMN*",20.8
+-103.960833,24.001667,DGO,FVLDR,"Francisco Villa, Dgo.",18.3
+-103.773611,25.265278,DGO,FZRDR,"Francisco Zarco, Dgo.",10.2
+-105.25,25.5,DGO,GESDR,"General Escobedo, Dgo.",24
+-105.952222,25.934444,DGO,GNCDR,"Guanaceví, Dgo.",17.5
+-104.753056,23.961111,DGO,GVCDR,"Presidente Guadalupe Victoria, Dgo.",18.2
+-103.983333,26.549722,DGO,LAFLOR,"La Flor de Jimulco, Dgo. SMN*",25
+-105.015833,25.594167,DGO,LCRDR,"Lázaro Cárdenas, Dgo.",8.3
+-103.7475,26.686389,DGO,MAPIMI,"Mapimí, Dgo. SMN*",19.4
+-103.85,25.816667,DGO,MPMDR,"Mapimí, Dgo.",9.01
+-104.113889,25.225556,DGO,NZSDR,"Nazas, Dgo.",18.51
+-104.6,24.1,DGO,OBSDR,"Observatorio de Durango, Dgo.",23.2
+-104.656667,24.203889,DGO,PAGDR,"Peña del Aguila, Dgo.",17.6
+-104.333056,24.538333,DGO,PDCDR,"Pánuco de Coronado, Dgo.",16.22
+-104.558333,25.181944,DGO,RDODR,"Rodeo, Dgo.",3.01
+-106.366667,26.133333,DGO,ROSDR,"La Rosilla, Dgo.",20
+-104.9,25.75,DGO,RPADR,"Radar Palmito, Dgo.",49.22
+-105.443056,25.225,DGO,SACDR,"Salomé Acosta, Dgo.",7.8
+-104.925833,23.824444,DGO,SBBDR,"Santa Bárbara, Dgo.",23.6
+-104.675833,23.874444,DGO,SBYDR,"Santiago Bayacora, Dgo.",15.4
+-103.353056,24.469167,DGO,SCLDR,"Santa Clara, Dgo.",24.5
+-104.054444,23.623056,DGO,SELDR,"Santa Elena, Dgo.",13.2
+-105.560833,26.436667,DGO,SGBDR,"San Gabriel, Dgo.",15.2
+-102.778056,24.630556,DGO,SJGDR,"San Juan de Guadalupe, Dgo.",37
+-104.276944,25.085,DGO,SLCDR,"San Luis del Cordero, Dgo.",3
+-105.366667,25.953333,DGO,SMODR,"Santa María del Oro, Dgo.",22
+-104.2925,25.564167,DGO,SPGDR,"San Pedro del Gallo, Dgo.",14.21
+-105.422222,25.0375,DGO,SPPDR,"Santiago Papasquiaro, Dgo.",0.01
+-105.566667,26.084444,DGO,SRDDR,"Sardinas, Dgo.",6.01
+-106.538056,24.702222,DGO,TDRDR,"El Tule del Real, Dgo.",0
+-103.441667,26.1125,DGO,THODR,"Tlahualilo, Dgo.",25
+-105.725,25.341111,DGO,TLHDR,"Observatorio de Tepehuanes, Dgo.",0.4
+-106.975,24.933333,DGO,TMZDR,"Tamazula, Dgo.",1.6
+-104.928889,26.2425,DGO,VHGDR,"Villa Hidalgo, Dgo.",27.5
+-105.506111,26.447778,DGO,VOCDR,"Villa Ocampo, Dgo.",15.02
+-99.906667,16.849722,GRO,ACAGR,"Acapulco, Gro.",0
+-99.516944,17.576389,GRO,AERGR,"Observatorio de Chilpancingo Aeropuerto, Gro.",0.2
+-98.975278,17.719722,GRO,AHUGR,"Ahuacuotzingo, Gro.",0
+-100.5,18.154167,GRO,AJCGR,"Ajuchitlán, Gro.",0
+-99.104722,18.106944,GRO,ATENANGOCFE,"Atenango del Río, Gro. CFE*",0
+-100.433333,17.210278,GRO,ATYGR,"Atoyac, Gro.",0
+-99.1,16.949444,GRO,AYUGR,"Ayutla, Gro.",0
+-99.400833,18.459444,GRO,BVSGR,"Buenavista, Gro.",3
+-100.664444,18.358611,GRO,CALGR,"Ciudad Altamirano, Gro.",0
+-99.701111,17.672222,GRO,CCHGR,"Chichihualco, Gro.",0
+-100.089444,17.008889,GRO,CDBGR,"Coyuca de Benítez, Gro.",0
+-99.5,17.545278,GRO,CHIGR,"Chilpancingo, Gro.",1.7
+-99.175833,17.608611,GRO,CHLGR,"Chilapa, Gro.",0
+-98.411944,16.47,GRO,CNLGR,"Cuajinicuilapa, Gro.",0
+-101.054444,17.376944,GRO,CYQGR,"Coyuquilla, Gro.",0
+-99.995556,17.947778,GRO,ECAGR,"Ing. Carlos Ramírez Ulloa, Gro.",0
+-99.516667,17.233333,GRO,EOCGR,"El Ocotito, Gro.",0
+-99.332778,18.3025,GRO,HTZGR,"Huitzuco, Gro.",0
+-99.55,18.349722,GRO,IGLGR,"Iguala, Gro.",1
+-99.524167,18.360278,GRO,IGUALA,"Iguala, Gro. SMN*",1
+-98.513333,17.6225,GRO,IXTGR,"Ixcateopan de Tlapa, Gro.",0.2
+-101.003056,18.418611,GRO,LCLGR,"La Calera, Gro.",0
+-100.018056,16.958333,GRO,LDCGR,"Laguna de Coyuca, Gro.",0
+-99.235,16.76,GRO,LDGGR,"Las Vigas, Gro.",0
+-99.503056,18.363333,GRO,LDTGR,"Laguna de Tuxpan, Gro.",0.4
+-99.369167,17.471389,GRO,MCHGR,"Mochitlán, Gro.",3.6
+-99.799722,16.8,GRO,ODAGR,"Observatorio de Acapulco, Gro.",0
+-99.5,17.6,GRO,ODZGR,"Observatorio de Zumpango, Gro.",0
+-98.729722,17.777778,GRO,OLNGR,"Olinalá, Gro.",0
+-98.433333,16.683333,GRO,OMEGR,"Ometepec, Gro.",0
+-98.888333,18.020833,GRO,PAPALUTLACFE,"Papalutla, Gro. CFE*",7.3
+-99.45,17.483333,GRO,PETGR,"Petaquillas, Gro.",28
+-98.500556,16.655833,GRO,QTZGR,"Quetzala, Gro.",0
+-99.166111,16.823611,GRO,RMEGR,"Revolución Mexicana, Gro.",0
+-101.750278,18.273611,GRO,SANANTONIOCFE,"San Antonio, Gro. CFE*",0
+-100.478611,18.171944,GRO,SCRISTOBALCFE,"San Cristóbal, Gro. CFE*",0
+-100.472778,17.139444,GRO,SJEGR,"San Jerónimo, Gro.",0
+-99.516944,17.920833,GRO,SJTETELCINGOCFE,"San Juan Tetelcingo, Gro. CFE*",0.2
+-99.482778,16.796389,GRO,SNMGR,"San Marcos, Gro.",0
+-99.605278,18.554444,GRO,TAXGR,"Taxco, Gro.",10
+-99.526389,17.1675,GRO,TCOGR,"Tierra Colorada, Gro.",0
+-99.976389,17.789722,GRO,TLAGR,"Tlacotepec, Gro.",4.3
+-98.6,17.5,GRO,TLPGR,"Tlapa, Gro.",1.9
+-99.399444,17.568056,GRO,TXTGR,"Tixtla, Gro.",0
+-100.265833,18.382778,GRO,VGRGR,"Vicente Guerrero, Gro.",0.5
+-99.466111,18.295833,GRO,VTRGR,"Valerio Trujano, Gro.",0
+-98.488333,17.903889,GRO,XXHGR,"Xochihuehuetlán, Gro.",4.5
+-99.933333,17.603333,GRO,YXTGR,"Yextla, Gro.",0
+-101.548889,17.645278,GRO,ZHTGR,"Zihuatanejo, Gro.",0
+-101.536667,20.446944,GTO,ABSGJ,"Abasolo, Gto.",7.8
+-100.712222,20.0325,GTO,ACNGJ,"Acámbaro, Gto.",18.05
+-100.683333,20.533333,GTO,AEGGJ,"Apaseo el Grande, Gto.",29.41
+-100.5825,20.553889,GTO,AMCGJ,"Ameche, Gto.",14.51
+-100.620833,20.454167,GTO,APSGJ,"Apaseo el Alto, Gto.",14.51
+-101.625556,20.499167,GTO,ATBGJ,"Agua Tibia, Gto.",7.52
+-101.838333,21.048611,GTO,BRRGJ,"El Barrial, Gto.",4.93
+-100.816667,20.536389,GTO,CLYGJ,"Celaya, Gto.",17.51
+-101.474722,21.068056,GTO,COMGJ,"Comanjilla, Gto.",8
+-100.363333,20.198333,GTO,CORGJ,"Coroneo, Gto.",20.3
+-101.666667,20.616667,GTO,CRMGJ,"Cuerámaro, Gto.",12.1
+-100.962778,20.487778,GTO,CRTGJ,"Cortázar, Gto.",16.2
+-100.9,20.95,GTO,CSRGJ,"Cinco Señores, Gto.",11.51
+-101.6675,21.195278,GTO,CSTGJ,"Los Castillos, Gto.",4.52
+-100.933333,21.15,GTO,DHGGJ,"Dolores Hidalgo, Gto.",9.02
+-100.9,20.279722,GTO,ECBGJ,"El Cubo, Gto.",18.04
+-101.244444,20.872222,GTO,ECHGJ,"El Chapín, Gto.",5.53
+-101.37,20.715833,GTO,ECNGJ,"El Conejo, Gto.",2.82
+-101.545,20.85,GTO,ELHUARICHO,"El Huaricho, Gto. INIFAP*",8.6
+-101.678889,21.173611,GTO,EPLGJ,"El Palote, Gto.",11.01
+-101.7425,20.439167,GTO,GLNGJ,"La Golondrina, Gto.",6.02
+-101.266111,21.014722,GTO,GTOGJ,"Observatorio de Guanajuato, Gto.",20.93
+-100.825833,20.848056,GTO,IALGJ,"Ignacio Allende, Gto.",16
+-100.825833,20.588333,GTO,INIFAPGJ,"INIFAP, Gto. INIFAP*",2.4
+-101.35,20.683333,GTO,IRPGJ,"Irapuato, Gto.",0.02
+-100.518333,20.145556,GTO,JCRGJ,"Jerécuaro, Gto.",32.92
+-101.844167,20.675278,GTO,LADGJ,"Las Adjuntas, Gto.",5.2
+-101.781667,20.303889,GTO,LAGAVILANA,"La Gavilana, Gto. INIFAP*",2
+-101.353889,20.437222,GTO,LASESTACAS,"Las Estacas, Gto. INIFAP*",3.6
+-101.073056,20.286944,GTO,LDYGJ,"Laguna de Yuriria, Gto.",6.53
+-101.693333,21.136389,GTO,LENGJ,"León, Gto.",18.54
+-101.594444,20.842778,GTO,LGVGJ,"Presa la Gavia, Gto.",18.8
+-101.358889,20.276111,GTO,LJIGJ,"Las Jícamas, Gto.",6
+-100.600278,20.433611,GTO,LOSTECOLOTES,"Los Tecolotes, Gto. INIFAP*",22.4
+-101.107778,21.324167,GTO,LQMGJ,"La Quemada, Gto.",14.3
+-101.931111,20.507222,GTO,MABGJ,"Mariano Abasolo, Gto.",7
+-101.48,21.65,GTO,OCMGJ,"Ocampo, Gto.",33
+-101.111389,20.5225,GTO,PERGJ,"Pericos, Gto.",44.51
+-100.878333,21.105,GTO,PNLGJ,"Peñuelitas, Gto.",7.6
+-100.496111,21.22,GTO,POZGJ,"Pozos, Gto.",13.81
+-101.287778,20.867222,GTO,PRSGJ,"La Purísima, Gto.",14.8
+-100.789167,20.723333,GTO,PURISIMADECHAMA,"Purísima de Chamacuero, Gto. INIFAP*",7.6
+-101.923611,20.386667,GTO,SANTAANA,"Santa Ana, Gto. INIFAP*",0
+-101.246111,20.213056,GTO,SANVICENTEINIFA,"San Vicente, Gto. INIFAP*",3.4
+-101.216667,21.483333,GTO,SFEGJ,"San Felipe, Gto.",10.6
+-99.831389,21.320833,GTO,SGORDAII,"Sierra Gorda 2, Gto. SMN*",6.2
+-101.016667,20.4,GTO,SJLGJ,"Santa Julia, Gto.",15.3
+-101.199444,20.565833,GTO,SLMGJ,"Salamanca, Gto.",14.12
+-100.669722,20.055278,GTO,SLSGJ,"Solís, Gto.",10.05
+-100.885833,20.216667,GTO,SLVGJ,"Salvatierra, Gto.",13.03
+-100.751944,20.8975,GTO,SMAGJ,"San Miguel de Allende, Gto.",39.11
+-100.745833,20.577778,GTO,SMOGJ,"San Miguel Octopan, Gto.",8.94
+-101.066944,20.298333,GTO,SRTGJ,"Santa Rita, Gto.",4.11
+-100.7525,20.284722,GTO,TARGJ,"Tarimoro, Gto.",28.57
+-101.3,20.6,GTO,TEMGJ,"Temascatío, Gto.",0.03
+-101.178889,20.382778,GTO,VDSGJ,"Valle de Santiago, Gto.",11.01
+-100.0925,21.298889,GTO,XICGJ,"Xichú, Gto.",9.93
+-98.941667,20.268056,HGO,ACTHD,"Actopan, Hgo.",20
+-98.348056,21.019444,HGO,ATCHD,"Atlapexco, Hgo.",15.5
+-98.716111,20.185556,HGO,ELCHICO,"El Chico, Hgo. SMN*",10.4
+-99.36,20.163889,HGO,ENDHD,"Endhó, Hgo.",25.5
+-98.416667,21.15,HGO,HJTHD,"Huejutla, Hgo.",21.9
+-99.706944,20.32,HGO,HUICHAPAN,"Huichapan, Hgo. SMN*",10.5
+-99.220833,20.481944,HGO,IXMHD,"Ixmiquilpan, Hgo.",26.7
+-98.757222,20.591667,HGO,LMTHD,"Metztitlán, Hgo.",20
+-99.218611,20.2375,HGO,MXQHD,"Mixquiahuala, Hgo.",44.5
+-98.6,21.166667,HGO,ORZHD,"San Felipe Orizatlán, Hgo.",13.6
+-98.7475,20.123333,HGO,PCOHD,"Observatorio de Pachuca, Hgo.",50.8
+-98.334722,20.0575,HGO,PERHD,"La Esperanza, Hgo.",26.6
+-99.329444,20.359722,HGO,PRGHD,"Javier Rojo Gómez, Hgo.",40
+-99.310833,19.963056,HGO,PRQHD,"Requena, Hgo.",29
+-99.375833,20.435556,HGO,PVAHD,"Vicente Aguirre, Hgo.",35
+-98.369444,20.083333,HGO,TLGHD,"Observatorio de Tulancingo, Hgo.",32.3
+-98.658611,20.991667,HGO,TLNHD,"Tlanchinol, Hgo.",36.11
+-99.501111,20.663333,HGO,ZMPHD,"Ing. Fernando Hiriart Balderrama, Hgo.",14.6
+-98.647222,20.652778,HGO,ZXTHD,"Zacualtipán, Hgo.",28
+-103.228611,22.325833,JAL,ACHZC,"Achimec, Jal.",10.42
+-102.436944,21.599444,JAL,AJJJL,"Ajojucar, Jal.",5.01
+-103.091944,20.397222,JAL,ATQJL,"Atequiza, Jal.",6.01
+-104.063611,19.914444,JAL,BBAJL,"Basilio Vadillo, Jal.",0.01
+-103.724444,22.406111,JAL,BCSJL,"Bocas, Jal.",7.62
+-103.782778,21.831667,JAL,BLNJL,"Bolaños, Jal.",0
+-103.464722,19.730556,JAL,CDGUZMANob,"Observatorio de Ciudad Guzmán, Jal. SMN*",16.2
+-103.465278,19.697778,JAL,CGZJL,"Observatorio de Ciudad Guzmán, Jal.",17.3
+-102.774167,19.287778,JAL,CHLMC,"Constitución de Apatzingán, Jal.",0
+-104.561944,19.2375,JAL,CIHJL,"Cihuatlán, Jal.",0
+-103.361944,22.058889,JAL,CLLJL,"Casa Llanta, Jal.",10.9
+-103.25,22.133333,JAL,CLTJL,"Observatorio de Colotlán, Jal.",7.9
+-105.129722,19.9975,JAL,CPEJL,"Cajón de Peña, Jal.",0.01
+-104.780833,20.479722,JAL,CRNJL,"Corrinchis, Jal.",1.01
+-101.7375,21.497778,JAL,CRTJL,"El Cuarenta, Jal.",7.64
+-102.7825,20.341389,JAL,CUIJL,"Cuitzeo, Jal.",5.53
+-105.218333,20.593333,JAL,CULJL,"Cuale, Jal.",0
+-102.822778,21.005833,JAL,CUNJL,"La Cuña, Jal.",5.21
+-102.705,21.037222,JAL,ESLJL,"El Salto, Jal.",21
+-103.335,20.723333,JAL,EXPJL,"La Experiencia, Jal.",3.33
+-102.766667,20.298056,JAL,FTEJL,"El Fuerte, Jal.",7.52
+-103.3925,20.706667,JAL,GUADALAJARAob,"Observatorio de Guadalajara , Jal. SMN*",1.2
+-103.354444,20.680556,JAL,GUAJL,"Guadalajara Centro, Jal.",3.6
+-103.392778,20.706667,JAL,GUCJL,"Observatorio de Guadalajara, Jal.",1
+-103.651111,20.466944,JAL,HRTJL,"Hurtado, Jal.",1
+-102.25,20.483333,JAL,HUAJL,"Huascato, Jal.",18.52
+-102.705833,20.293889,JAL,JMYJL,"Jamay, Jal.",17.24
+-103.426111,21.048611,JAL,LABOQUILLACFE,"La Boquilla, Jal. CFE*",3.2
+-103.644167,20.676389,JAL,LAPRIMAVERA,"La Primavera, Jal. SMN*",2
+-103.201667,20.290556,JAL,LDCJL,"Lago de Chapala, Jal.",13.11
+-101.919722,21.359722,JAL,LDMJL,"Lagos de Moreno, Jal.",16.42
+-101.941944,21.348333,JAL,LMORENOob,"Observatorio de Lagos de Moreno, Jal. SMN*",9
+-103.033333,20.316667,JAL,MEZCALA,"Mezcala Poncitlán, Jal. SGT*",14.4
+-104.786389,20.525278,JAL,MSCJL,"Mascota, Jal.",0.2
+-103.590833,19.592222,JAL,NEVADOCOLIMA,"Nevado de Colima, Jal. SMN*",11.8
+-101.916667,21.366667,JAL,OLMJL,"Observatorio de Lagos de Moreno, Jal.",9.7
+-102.531667,21.336389,JAL,PELSABINOCFE,"Paso el Sabino, Jal. CFE*",4.2
+-103.361667,20.584167,JAL,PITJL,"Protección a Infraestructura y Atención a Emergencias Toluquilla, Jal.",3.81
+-104.105833,21.196944,JAL,PLYJL,"Ing. Alfredo Elías Ayub, Jal.",0.2
+-102.231944,20.491111,JAL,POLJL,"Ing. Guillermo Lugo Sanabria, Jal.",18.51
+-104.05,20.55,JAL,RAMJL,"Río Ameca, Jal.",0.73
+-101.835556,21.359167,JAL,SA1JL,"La Sauceda, Jal.",2.81
+-102.509444,21.284722,JAL,SANGASPARCFE,"San Gaspar, Jal. CFE*",0
+-101.85,21.35,JAL,SAUJL,"La Sauceda, Jal.",2.01
+-102.5,21.3,JAL,SGRJL,"San Gaspar de los Reyes, Jal.",1.62
+-103.9175,19.463611,JAL,SMANANTLANI,"Sierra Manatlán 1, Jal. SMN*",1.2
+-103.705556,20.908889,JAL,SRSJL,"Manuel M. Diéguez, Jal.",0.3
+-102.583333,21.45,JAL,TCAJL,"Teocaltiche, Jal.",2.53
+-104.320278,20.036111,JAL,TCTJL,"Tacotán, Jal.",0
+-103.198611,22.171944,JAL,TENJL,"Tenasco, Jal.",6.01
+-103.316667,20.583333,JAL,TLAJL,"Tlaquepaque, Jal.",4.42
+-104.370278,19.976111,JAL,TMLJL,"Ramón Corona Madrigal General, Jal.",0
+-103.396667,18.967222,JAL,TRJCM,"Solidaridad, Jal.",0
+-103.183333,20.15,JAL,TUXCUECA,"Tuxcueca, Jal. SGT*",0
+-102.941667,19.939722,JAL,VCVJL,"Vicente C. Villaseñor, Jal.",11
+-103.845833,20.596389,JAL,VEGJL,"Ing. Santiago Camarena, Jal.",3.5
+-99.377222,19.377222,MEX,2RSMX,"Dos Ríos, Méx.",23.5
+-98.655278,19.118611,MEX,ALTZOMONI,"Altzomoni, Méx. SMN*",1.4
+-99.216667,19.566667,MEX,ARBMX,"Las Arboledas, Méx.",13.5
+-99.866667,19.783333,MEX,ATLMX,"Atlacomulco, Méx. SMN*",22.28
+-99.866667,19.783333,MEX,ATPMX,"Atlacomulco Prepa., Méx.",55.42
+-99.7,19.333333,MEX,CALMX,"Calixtlahuaca, Méx.",19.83
+-99.511667,19.205,MEX,CGCMX,"Gerencia Conagua CODAGEM, Méx.",26.23
+-100.152778,19.350556,MEX,CHIMX,"Chilesdo, Méx.",0
+-98.884722,19.483333,MEX,CHPMX,"Chapingo, Méx.",23.7
+-99.239444,19.534167,MEX,CLYMX,"Calacoaya, Méx.",5.6
+-99.301667,19.695,MEX,CNPMX,"La Concepción, Méx.",39.3
+-99.714167,19.291111,MEX,COBMX,"Observatorio de Toluca, Méx.",51.04
+-100.225,19.178889,MEX,COLMX,"Colorines, Méx.",2.5
+-99.559722,19.884722,MEX,DNXMX,"Danxho, Méx.",31.03
+-99.238333,19.453611,MEX,EMOMX,"El Molinito Río Hondo, Méx.",23.2
+-98.917222,19.578889,MEX,GRDMX,"La Grande, Méx.",19.5
+-99.696944,20.046389,MEX,HPNMX,"Huapango, Méx.",9.05
+-99.769444,19.5675,MEX,IXCMX,"Ixtlahuaca, Méx.",11.12
+-99.05,19.633333,MEX,K27MX,"km 27+250, Méx.",32.4
+-100.075833,19.389444,MEX,LBEMX,"Los Berros, Méx.",7.9
+-99.220833,19.4775,MEX,MBLMX,"Molino Blanco, Méx.",16.5
+-99.683333,19.116667,MEX,NEVMX,"Nevado de Toluca, Méx. SMN*",45.97
+-99.184722,19.580833,MEX,PBTMX,"Planta de bombeo Barrientos, Méx.",22.6
+-99.017222,19.656667,MEX,PCCMX,"Planta Chiconautla 2, Méx.",29.2
+-99.181944,19.743056,MEX,PCGMX,"Puente Colgante, Méx.",9
+-99.010278,19.636944,MEX,PCTMX,"Planta Chiconautla 1, Méx.",29.76
+-99.790278,19.829167,MEX,PFBMX,"Francisco José Trinidad Fabela, Méx.",19.01
+-99.775,19.461667,MEX,PIRMX,"Ignacio Ramírez, Méx.",13.9
+-99.248889,19.429444,MEX,PLMMX,"Palmas, Méx.",18.6
+-99.260833,19.526944,MEX,PMDMX,"Madín, Méx.",14.1
+-99.739722,20.124167,MEX,PMNMX,"El Molino, Méx.",8.15
+-99.864444,20.038611,MEX,PNDMX,"Ñadó, Méx.",20.17
+-99.268056,19.524444,MEX,PREMX,"Presa Madín, Méx. SMN*",9.4
+-99.283333,19.453611,MEX,PTLMX,"Presa Totolica, Méx.",22.7
+-99.603333,19.213333,MEX,RECMX,"Rectoría, Méx.",34.44
+-98.910556,19.531944,MEX,SADMX,"San Andrés, Méx.",18.9
+-99.704722,19.465833,MEX,SBBMX,"José Antonio Alzate, Méx.",34
+-99.764722,19.238333,MEX,SJHMX,"San Juan de las Huertas, Méx.",23
+-98.870833,19.190278,MEX,SLAMX,"San Luis Ameca, Méx.",43.8
+-99.741667,19.591667,MEX,SLBMX,"San Bartolo del Llano, Méx.",9.04
+-99.285,19.574444,MEX,SNJMX,"San Juan, Méx.",27.8
+-98.895833,19.258333,MEX,SNLMX,"Chalco San Lucas, Méx.",31.4
+-98.960556,19.320833,MEX,SSCDF,"La Caldera Subestación eléctrica Santa Lucía, Méx.",26.7
+-99.799167,19.343056,MEX,TBRMX,"Tres Barrancas, Méx.",11.13
+-99.935833,18.931389,MEX,TESMX,"Texcaltitlán, Méx.",6.11
+-99.905278,19.856944,MEX,TJCMX,"El Tejocote, Méx.",9.01
+-99.714167,19.291111,MEX,TOLUCAob,"Observatorio de Toluca, Méx. SMN*",45.6
+-99.245556,19.465556,MEX,TOTMX,"Totolica, Méx.",22.2
+-99.961389,19.660833,MEX,TPTMX,"San Andrés Tepetitlán, Méx.",42.42
+-99.6125,19.428056,MEX,TROMX,"Trojes, Méx.",26.8
+-99.243611,19.466389,MEX,TTLMX,"Totolica hidrométrica, Méx.",19
+-99.123889,19.904722,MEX,TTQMX,"Tajo de Tequixquiac, Méx.",34.4
+-99.385278,19.834722,MEX,TXMHD,"Taxhimay, Méx.",29.5
+-100.084722,19.375556,MEX,VALLEDEBRAVO,"Valle de Bravo, Méx. SMN*",0
+-100.18,19.2075,MEX,VBRMX,"Valle de Bravo, Méx.",2.8
+-99.211667,19.510278,MEX,VDCDF,"Vaso de Cristo, Méx.",0.4
+-99.334167,19.382222,MEX,VNDMX,"El Venado, Méx.",0
+-100.055556,19.461667,MEX,VVCMX,"Villa Victoria, Méx.",21.51
+-101.99,20.231389,MICH,ADUMC,"Adjuntas, Mich.",38.8
+-100.608889,19.579722,MICH,AGOMC,"Agostitlán, Mich.",14.1
+-101.661111,19.926111,MICH,AMEMC,"Aristeo Mercado, Mich.",0
+-102.371111,19.083056,MICH,APTMC,"Apatzingán, Mich.",0
+-102.419167,20.183889,MICH,BIBMC,"Barraje de Ibarra, Mich.",0
+-100.891111,18.463333,MICH,CAIMANERACFE,"Caimanera, Mich. CFE*",0
+-101.461389,20.324167,MICH,CBLMC,"Casa Blanca, Mich.",6.53
+-102.265278,19.973611,MICH,CHAMC,"Chaparaco, Mich.",25.91
+-100.55,19.7,MICH,CHIMC,"Ciudad Hidalgo, Mich.",46.02
+-100.9,18.5,MICH,CMNMC,"Caimanera, Mich.",0
+-101.259167,19.629722,MICH,COIMC,"Cointzio, Mich.",47.24
+-101.861667,20.207222,MICH,CORMC,"Corrales, Mich.",14.04
+-100.421111,19.387778,MICH,DBOMC,"El Bosque, Mich.",1.5
+-100.45,19.966667,MICH,EGIMC,"El Gigante, Mich.",28.71
+-102.541389,19.979167,MICH,GUAMC,"Guaracha, Mich.",23.61
+-101.883333,18.266667,MICH,INFMC,"Infiernillo, Mich.",0
+-102.6,19.958333,MICH,JARMC,"Jaripo, Mich.",26.71
+-101.626667,20.248889,MICH,LANMC,"Los Ángeles, Mich.",0.8
+-100.406389,19.838056,MICH,LDFMC,"Laguna del Fresno, Mich.",6.3
+-102.865556,19.210833,MICH,LOLMC,"Los Olivos, Mich.",0
+-102.004444,20.354444,MICH,LPDMC,"La Piedad, Mich.",10.41
+-102.133333,18.848611,MICH,LPNMC,"Los Panches, Mich.",0.1
+-102.2,18.8,MICH,LPSMC,"La Pastoría, Mich.",0
+-101.1,19.7,MICH,MCEMC,"Morelia Centro, Mich.",42.34
+-100.873611,19.829167,MICH,MLPMC,"Malpaís, Mich.",29
+-101.2,19.7,MICH,MNOMC,"Observatorio de Morelia Norte, Mich.",49.53
+-101.724444,20.127222,MICH,MOCMC,"Melchor Ocampo, Mich.",14.02
+-101.176111,19.688611,MICH,MORMC,"Morelia DDR 020, Mich.",27.83
+-100.439167,19.890833,MICH,MRVMC,"Maravatío, Mich.",21.51
+-102.325,19.966667,MICH,ORAMC,"Orandino, Mich.",44.2
+-102.221944,18.883333,MICH,PANCHESCFE,"Panches, Mich. CFE*",0
+-102.058611,18.931111,MICH,PASTORIACFE,"Pastoría, Mich. CFE*",0.4
+-101.044167,19.826944,MICH,PDBMC,"Planta de bombeo, Mich.",40.03
+-101.6,20.3,MICH,PORMC,"Pastor Ortiz, Mich.",2.22
+-100.684167,19.621389,MICH,PUCMC,"Pucuato, Mich.",17.72
+-102.136944,19.961389,MICH,PUREPETIRO,"Presa Urepetiro, Mich. SGT*",43.2
+-102.716667,20.066667,MICH,SAHMC,"Sahuayo, Mich.",16.5
+-102.464722,20.208333,MICH,SCRMC,"San Cristóbal, Mich.",14.5
+-102.651389,19.839444,MICH,SJUMC,"San Juanico, Mich.",45
+-100.229167,20.000278,MICH,TEPMC,"Tepuxtepec, Mich.",8
+-100.299167,19.766389,MICH,TMUMC,"Tercer Mundo, Mich.",4.53
+-102.137778,19.962222,MICH,UREMC,"Urepetiro, Mich.",59.55
+-102.180278,18.048333,MICH,VILMC,"José María Morelos y Pavón, Mich.",0
+-101.746944,19.923056,MICH,VJIMC,"Villa Jiménez, Mich.",28.92
+-102.283056,20.3375,MICH,YURMC,"Yurécuaro, Mich.",23.1
+-102.284167,20.006667,MICH,ZAMMC,"Observatorio de Zamora, Mich.",14.51
+-101.795,19.805278,MICH,ZCAMC,"Zacapu, Mich.",29.3
+-101.931944,18.921111,MICH,ZICMC,"Zicuirán, Mich.",0
+-98.829167,18.947222,MOR,ACHMR,"Achichipico, Mor.",8
+-99.258056,18.734722,MOR,ALUMR,"Alpuyeca, Mor.",3.6
+-99.376944,18.596111,MOR,AMCMR,"Amacuzac, Mor.",0
+-98.928056,18.936667,MOR,ATLMR,"Atlatlahucan, Mor.",10
+-98.948889,18.808611,MOR,CUAMR,"Cuautla, Mor.",0
+-99.2,18.9,MOR,CUEMR,"Cuernavaca, Mor.",18.1
+-99.375556,18.701667,MOR,CUTMR,"Cuautlita, Mor.",6.5
+-98.786667,18.690556,MOR,ELPMR,"El Peñón, Mor.",15.5
+-99.180278,18.573889,MOR,HIGMR,"Higuerón, Mor.",6
+-99.424167,18.608333,MOR,HUAMR,"Huajintlán, Mor.",0
+-98.75,18.883333,MOR,HUEMR,"Hueyapan, Mor.",15.31
+-99.265,19.028889,MOR,HUIMR,"Huitzilac, Mor.",12.8
+-99.025,18.44,MOR,HUTMR,"Huautla, Mor.",0
+-98.781667,18.936667,MOR,HUXMR,"Huecahuaxco, Mor.",7.6
+-99.158611,18.883611,MOR,IMTMR,"Instituto Mexicano de Tecnología del Agua, Mor. SMN*",0.25
+-98.8,18.7,MOR,JNCMR,"Jonacatepec, Mor.",24.2
+-99.2,18.6,MOR,JOJMR,"Jojutla, Mor.",6
+-98.914444,18.683611,MOR,LCUMR,"La Cuera, Mor.",19.1
+-99.372778,18.757222,MOR,MIAMR,"Miacatlán, Mor.",5.5
+-99.004722,18.727222,MOR,MYOMR,"Moyotepec, Mor.",20.5
+-99.140833,18.519444,MOR,NEXMR,"Nexpa, Mor.",1.5
+-99.031389,18.923333,MOR,OACMR,"Oacalco, Mor.",6.71
+-98.901389,18.900556,MOR,OAXMR,"Oaxtepec, Mor.",4
+-99.219167,18.908889,MOR,OBSMR,"Observatorio de Cuernavaca, Mor.",16
+-98.758611,18.8825,MOR,OCTMR,"Ocuituco, Mor.",5.5
+-99.322778,18.633333,MOR,PIXMR,"Puente de Ixtla, Mor.",0
+-99.156944,18.771111,MOR,PROMR,"Progreso, Mor.",17.8
+-99.331389,18.765278,MOR,RODMR,"El Rodeo, Mor.",6.6
+-99.190556,18.918333,MOR,SLDMR,"Solidaridad, Mor.",16.5
+-99.223611,18.856944,MOR,TEMMR,"Temixco, Mor.",19
+-99.078889,18.950833,MOR,TEPOZTLAN,"Tepoztlán, Mor. SMN*",8.84
+-99.103889,18.794167,MOR,TICMR,"Ticumán, Mor.",5
+-99.306111,18.487778,MOR,TILMR,"Tilzapotla, Mor.",1
+-98.943611,19.038056,MOR,TLCMR,"Tlacualera, Mor.",18.7
+-98.75,18.813333,MOR,TLOMR,"Tlacotepec, Mor.",10.6
+-98.786944,18.778056,MOR,TMCMR,"Temoac, Mor.",15
+-98.92,18.9875,MOR,TOTMR,"Totolapan, Mor.",13
+-98.843611,18.596389,MOR,TPLMR,"Tepalcingo, Mor.",13.4
+-99.233333,18.983333,MOR,UAEMR,"Escuela de Biología Uaem, Mor.",15
+-99.190278,18.528889,MOR,XICMR,"Xicatlacotla, Mor.",12
+-99.050556,18.899167,MOR,YAHMR,"Yautepec, Mor.",3.9
+-99.196667,18.651389,MOR,ZCTMR,"Observatorio de Zacatepec, Mor.",1
+-105.354167,22.49,NAY,ACANR,"Acaponeta, Nay.",0
+-104.802222,21.839167,NAY,AGMNR,"Aguamilpa Solidaridad, Nay.",0
+-105.1125,21.831111,NAY,CAPNR,"Capomal, Nay.",0
+-104.500556,21.942778,NAY,CHAPALAGANACFE,"Chapalagana, Nay. CFE*",0
+-104.5,21.944167,NAY,CHPNR,"Chapalagana, Nay.",0
+-104.450833,21.428333,NAY,CJNNR,"Leonardo Rodríguez Alcaine, Nay.",0
+-105.136667,20.889722,NAY,GAVNR,"Gaviotas, Nay.",0
+-104.298056,21.038889,NAY,IXTLANRIO,"Ixtlán del Río, Nay. SMN*",0.25
+-104.514444,22.250556,NAY,JESUSMARIACFE,"Jesús María, Nay. CFE*",0
+-104.516944,22.250833,NAY,JMANR,"Jesús María, Nay.",0
+-105.341667,22.591667,NAY,LESNR,"La Estancia, Nay.",0
+-105.254167,22.377778,NAY,PAJNR,"Pajaritos, Nay.",0.01
+-105.211667,22.119722,NAY,ROMNR,"Rosamorada, Nay.",0
+-104.8875,21.780833,NAY,RSRNR,"San Rafael, Nay.",0
+-105.1425,21.958333,NAY,RUINR,"Ruiz, Nay.",0
+-104.891944,21.489444,NAY,TEPNR,"Observatorio de Tepic, Nay.",0
+-99.816667,24.1,NL,ARRNL,"Aramberri, N.L.",33.81
+-100.343333,25.634167,NL,AS-06,"Arroyo Seco, N.L. SAHM*",29.75
+-99.911667,24.321944,NL,ASCNL,"La Ascensión, N.L.",31.8
+-99.743889,24.99,NL,CABNL,"Cabezones, N.L.",74.3
+-99.578889,24.871944,NL,CAMNL,"Camacho, N.L.",76.91
+-99.439444,24.976111,NL,CARNL,"Carmen de los Elizondo Linares, N.L.",143.91
+-99.276944,25.711667,NL,CCHNL,"Cuchillo Solidaridad, N.L.",29.03
+-99.975,25.590278,NL,CDRNL,"Cadereyta, N.L.",99.52
+-99.399722,24.9375,NL,CPRNL,"José López Portillo, N.L.",136.71
+-99.6975,24.783611,NL,CRUNL,"Crucitas, N.L.",119.8
+-99.614167,26.091389,NL,CRVNL,"Cerralvo, N.L.",51.15
+-100.172778,23.676389,NL,DARNL,"Doctor Arroyo, N.L.",47
+-100.198056,25.5175,NL,ECSNL,"El Cerrito, N.L.",103
+-100.083333,24.833333,NL,GALNL,"Galeana, N.L.",71.7
+-100.128056,25.428056,NL,LBCNL,"Rodrigo Gómez, N.L.",92.3
+-99.527222,25.497222,NL,LERNL,"Las Enramadas, N.L.",74.04
+-99.196667,26.022222,NL,MDRNL,"Madero, N.L.",19.75
+-99.833333,25.174167,NL,MTMNL,"Montemorelos, N.L.",80.72
+-100.118056,23.4225,NL,MYNNL,"Mier y Noriega, N.L.",65.12
+-100.304722,25.733611,NL,OBSNL,"Observatorio de Monterrey, N.L.",82.01
+-99.221667,24.992778,NL,PAMNL,"La Pamona, N.L.",105
+-100.128889,25.429444,NL,PLABOCA,"Presa La Boca, N.L. SGT*",0
+-100.372222,27.429167,NL,PSANL,"Salinillas, N.L.",21.53
+-100.240278,25.856944,NL,RadioSondeoMty,"Radiosondeo, Monterrey N.L. SGT*",126.75
+-100.551111,25.028333,NL,SRANL,"San Rafael, N.L.",63.51
+-100.308333,25.7325,NL,TopoChico,"Topo Chico Monterrey, N.L. SGT*",96.8
+-99.777778,23.981389,NL,ZRGNL,"Zaragoza, N.L.",26
+-95.700556,16.010833,OAX,ASTOX,"Astata, Oax.",0
+-96.53,17.43,OAX,ATEOX,"Atepec, Oax.",5
+-96.1,17.016667,OAX,AYUOX,"Ayutla, Oax.",18.3
+-96.721667,17.069722,OAX,BAEOX,"Base Aérea, Oax.",17.7
+-95.929167,16.647222,OAX,BOQOX,"Boquilla 1, Oax.",0
+-98.278333,17.532778,OAX,CALOX,"Calihualá, Oax.",0
+-96.263611,17.999167,OAX,CDOOX,"Miguel de la Madrid Hurtado, Oax.",120.2
+-94.816667,16.583333,OAX,CHIOX,"Chicapa, Oax.",1.6
+-96.658333,18.492778,OAX,CSPOX,"Cosolapa, Oax.",30.91
+-96.388889,18.1525,OAX,DPSOX,"Dique Pescaditos, Oax.",72.12
+-95.374444,16.434722,OAX,EMAOX,"El Marqués, Oax.",0
+-97.819167,17.746389,OAX,FOYOX,"San Francisco Yosocuta, Oax.",1.7
+-97.776111,17.806667,OAX,HLOOX,"Observatorio de Huajuapan de León, Oax.",2.7
+-95.1,16.583333,OAX,IXTOX,"Ixtepec, Oax.",0
+-96.2,17.866667,OAX,JACOX,"Jacatepec, Oax.",9.52
+-95.397778,16.445556,OAX,JDMOX,"Presidente Benito Juárez, Oax.",0
+-95.033333,16.433333,OAX,JUCOX,"Juchitán, Oax.",0
+-95.2,16.6,OAX,KM1OX,"km 33+190, Oax.",0
+-95.716667,16.416667,OAX,KM2OX,"km 51+740, Oax.",0
+-96.905556,18.210556,OAX,LCAOX,"La Carbonera, Oax.",18.4
+-95.3,16.4,OAX,LPIOX,"Las Pilas, Oax.",0
+-95.483333,17.45,OAX,MAROX,"María Lombardo, Oax.",44.41
+-97.249167,17.436667,OAX,NOCHISTLAN,"Nochixtlán, Oax. SMN*",17.02
+-96.733333,17.066667,OAX,OACOX,"Oaxaca Centro, Oax.",27
+-96.7,17.001389,OAX,OAOOX,"Observatorio de Aeropuerto Oaxaca, Oax.",6.5
+-94.4,16.5,OAX,OSTOX,"Ostuta, Oax.",0
+-96.083333,18.166667,OAX,PAPOX,"Papaloapan, Oax.",22.73
+-96.716667,17.072778,OAX,PIAOX,"Organismo de Cuenca Pacífico Sur PIAE, Oax.",12.71
+-96.483333,15.666667,OAX,PTAOX,"Observatorio de Puerto Angel, Oax.",0
+-95.481389,16.585278,OAX,RHOOX,"Río Hondo, Oax.",0
+-95.916667,17.733333,OAX,RMLOX,"Río Manso Lalana, Oax.",47.1
+-97.725,16.102778,OAX,RVEOX,"Río Verde, Oax.",0
+-97.839444,17.156667,OAX,SACOX,"San Andrés Chicahuaxtla, Oax.",1.3
+-96.549722,17.266667,OAX,SCIOX,"Ixtepeji, Oax.",16.5
+-95.2,16.183333,OAX,SCROX,"Observatorio de Salina Cruz, Oax.",0
+-96.533333,17.883333,OAX,SFUOX,"San Felipe Usila, Oax.",105.5
+-96.453611,17.1175,OAX,SMAOX,"San Antonio Cuajimoloyas, Oax.",13.4
+-97.680278,18.188611,OAX,SNCOX,"Santiago Chazumba, Oax.",176.3
+-96.55,18.05,OAX,STDOX,"Santo Domingo, Oax.",109.9
+-97.536667,17.726111,OAX,STTOX,"Santiago Teotongo, Oax.",18.1
+-95.2,16.3,OAX,TEHOX,"Tehuantepec, Oax.",0
+-96.412222,18.232222,OAX,TEMOX,"Presidente Alemán, Oax.",32.3
+-95.6,16.416667,OAX,TEQOX,"Tequisistlán, Oax.",0
+-96.133333,18.083333,OAX,TUXOX,"Tuxtepec, Oax.",72.57
+-96.435278,17.933056,OAX,UCFOX,"Usila CFE, Oax.",132.1
+-94.833333,16.45,OAX,UHGOX,"Unión Hidalgo, Oax.",0
+-96.3,17.776389,OAX,VANOX,"Valle Nacional, Oax.",76.73
+-97.826111,17.724444,OAX,YOSOX,"Yosocuta, Oax.",0
+-95.93,17.15,OAX,ZACOX,"Zacatepec, Oax.",53.56
+-98.389444,17.755278,OAX,ZALOX,"Zapotitlán Lagunas, Oax.",0
+-94.216111,16.4025,OAX,ZANOX,"Zanatepec, Oax.",2
+-97.818056,17.889722,OAX,ZAPOX,"Zapotitlán Palmas, Oax.",0
+-97.578056,18.227778,PUE,ACAPB,"Acatepec, Pue.",14.4
+-97.418056,19.45,PUE,ACHPB,"Alchichica, Pue.",37.92
+-97.934167,19.0625,PUE,ACJPB,"Acajete, Pue.",26
+-98.055,18.277222,PUE,ADOPB,"Acatlán de Osorio, Pue.",6.6
+-98.135833,18.9425,PUE,AFRPB,"Africam, Pue.",24.8
+-97.920833,18.854167,PUE,AHAPB,"Ahuatepec, Pue.",11
+-98.148056,20.033056,PUE,AHUPB,"Ahuazotepec, Pue.",34.8
+-97.845,20.406944,PUE,APAPB,"Apapantilla, Pue.",69.7
+-98.420833,18.921111,PUE,ATXPB,"Atlixco, Pue.",13.7
+-97.881111,20.385833,PUE,AVCPB,"Ávila Camacho, Pue.",76.06
+-97.503333,19.961389,PUE,BAIPB,"Buenos Aires CFE, Pue.",67.75
+-98.108611,18.9125,PUE,BDDPB,"Manuel Ávila Camacho, Pue.",14.5
+-97.441667,18.983889,PUE,CDSPB,"Ciudad Serdán, Pue.",18
+-97.958333,18.968889,PUE,CEMPB,"Cemex, Pue.",14.5
+-98.579167,18.516111,PUE,CHIPB,"Chietla, Pue.",7.7
+-98.318056,19.068611,PUE,CHLPB,"Cholula, Pue.",20.5
+-98.567778,18.109722,PUE,CHSPB,"Chila de la Sal, Pue.",6.5
+-98.198611,19.022778,PUE,CNAPB,"Conagua, Pue.",20.5
+-98.049722,19.743333,PUE,CNGPB,"Chignahuapan, Pue.",53.61
+-98.164722,18.612778,PUE,COAPB,"Coatzingo, Pue.",5.7
+-98.059444,19.093056,PUE,CPLPB,"Capulac, Pue.",41.4
+-97.516667,20.033333,PUE,CTZPB,"Cuetzalan del Progreso, Pue.",132.08
+-98.275556,18.966111,PUE,ECHPB,"Echeverría, Pue.",23
+-98.404722,18.187222,PUE,ELFRAILECFE,"El Fraile, Pue. CFE*",1
+-98.456111,19.101111,PUE,HJTPB,"Huejotzingo, Pue.",25.7
+-98.540278,18.772222,PUE,HQCPB,"Huaquechula, Pue.",19
+-98.050833,20.176389,PUE,HUAPB,"Huauchinango, Pue.",56.54
+-98.72,18.039722,PUE,IXCAMILPACFE,"Ixcamilpa, Pue. CFE*",0
+-97.815833,19.621667,PUE,IXTPB,"Ixtacamaxtitlán, Pue.",34.51
+-98.466389,18.610833,PUE,IZMPB,"Izúcar de Matamoros, Pue.",4
+-97.691111,19.457222,PUE,LIBPB,"Libres, Pue.",57
+-98.231111,19.010556,PUE,MAYPB,"Mayorazgo 21 Poniente, Pue.",19
+-96.781389,18.360278,PUE,NARPB,"Naranjastitla, Pue.",153.85
+-98.000556,20.216667,PUE,NNEPB,"Necaxa, Pue.",44.3
+-97.533333,19.7,PUE,OYAPB,"Oyameles, Pue.",23.03
+-98.156667,20.2775,PUE,PAHUATLAN,"Pahuatlán de Valle, Pue. SGT*",49
+-97.251389,18.918056,PUE,PCRPB,"Paso Carretas, Pue.",46
+-98.264722,18.2,PUE,PIXPB,"Piaxtla, Pue.",20
+-97.702778,20.445833,PUE,PTEPALOMAS,"Puente Palomas, Pue. SGT*",30.5
+-97.883333,20.233333,PUE,PTLPB,"Patla, Pue.",77.1
+-98.166667,19.05,PUE,PUOPB,"Observatorio de Puebla, Pue.",22
+-97.616667,19.25,PUE,QUIPB,"Quimixtlán, Pue.",68.42
+-97.401667,20.116111,PUE,RNAPB,"Rancho Nuevo, Pue.",132.51
+-98.22,19.113056,PUE,SCRPB,"San Cristóbal Caleras, Pue.",8
+-97.91,18.735,PUE,SMCPB,"San Miguel Canoa, Pue.",24
+-97.446667,19.960833,PUE,SOLPB,"La Soledad, Pue.",121.62
+-98.582222,19.330278,PUE,SRTPB,"Santa Rita Tlahuapan, Pue.",15.5
+-97.486389,19.952778,PUE,STLPB,"Sontalaco CFE, Pue.",77.69
+-97.7925,20.004444,PUE,TDRPB,"Tepango de Rodríguez, Pue.",112.5
+-97.7525,18.878889,PUE,TECPB,"Tecamachalco, Pue.",23.1
+-97.395556,18.479167,PUE,TEHPB,"Tehuacán, Pue.",15
+-98.777222,18.451944,PUE,TELPB,"Teotlalco, Pue.",0.9
+-97.805833,19.829444,PUE,TEOPB,"Tetela de Ocampo, Pue.",52.11
+-97.9475,20.21,PUE,TEPPB,"Tepexic, Pue.",62
+-97.430556,18.468889,PUE,TETPB,"Teopilco, Pue.",18.01
+-97.36,19.815278,PUE,TEZPB,"Teziutlán, Pue.",52.02
+-97.876111,20.315278,PUE,TLAXCALALTON,"Tlaxcalaltongo, Pue. SGT*",54.8
+-96.835833,18.405,PUE,TLPPB,"Tlacotepec de Díaz, Pue.",162
+-97.491944,19.489167,PUE,TPYPB,"Tepeyahualco, Pue.",90
+-96.861389,18.483611,PUE,TYAPB,"Tepeyac, Pue.",71.22
+-98.050833,20.176389,PUE,UDSPB,"Universidad de la Sierra, Pue.",57.01
+-97.668056,20.510278,PUE,VENPB,"Venustiano Carranza, Pue.",24.31
+-97.956944,20.277222,PUE,XDJPB,"Xicotepec de Juárez, Pue.",143.34
+-97.585,19.859722,PUE,ZCPPB,"Zacapoaxtla, Pue.",39.01
+-97.011389,18.332222,PUE,ZOQPB,"Zoquitlán, Pue.",27.01
+-97.832778,20.178611,PUE,ZRGPB,"Zaragoza, Pue.",39
+-100.424444,20.504167,QRO,BATQT,"El Batán, Qro.",12
+-100.435556,20.604167,QRO,CARQT,"Carrillo, Qro.",28.5
+-100.080278,20.418611,QRO,CNSQT,"Constitución de 1917, Qro.",16.8
+-100.453333,20.535,QRO,EPUQT,"El Pueblito, Qro.",26
+-100.413056,20.567222,QRO,GHQQT,"Gerencia Hidalgo, Qro.",22.9
+-99.9625,20.198611,QRO,IDFQT,"San Ildefonso, Qro.",22
+-99.479722,21.230278,QRO,JLPQT,"Jalpan, Qro.",24.4
+-100.45,20.7,QRO,JRQQT,"Juriquilla, Qro.",33.7
+-100.369444,20.563333,QRO,OBSQT,"Observatorio de Querétaro, Qro.",21.1
+-99.815,21.055833,QRO,PMLQT,"Peñamiller, Qro.",16.6
+-99.169167,21.499167,QRO,SGORDAI,"Sierra Gorda 1, Qro. SMN*",0
+-100,20.3625,QRO,SJSQT,"San José, Qro.",15.9
+-86.820278,21.156667,QROO,CANQR,"Cancún, Q. Roo",9.2
+-88.3275,18.500556,QROO,CHOQR,"Observatorio de Chetumal, Q. Roo",10.01
+-86.775833,21.074444,QROO,CNCQR,"Cancún Radar, Q. Roo SMN*",41.12
+-86.946111,20.51,QROO,COZQR,"Cozumel, Q. Roo",73.6
+-88.045,19.575556,QROO,FCRQR,"Observatorio de Felipe Carrillo Puerto, Q. Roo",48.2
+-87.486111,21.101944,QROO,KANTUNILKIN,"Kantunilkín, Q. Roo SMN*",49.4
+-87.077778,20.634444,QROO,PDCQR,"Playa del Carmen, Q. Roo",23.8
+-106.654167,24.047222,SIN,ACTSI,"Acatitán, Sin.",0
+-109.183333,25.916667,SIN,AHMSI,"Ahome, Sin.",10
+-107.383333,25.090278,SIN,AL2SI,"El Varejonal hidrométrica, Sin.",0.01
+-108.7,25.7,SIN,ARCSI,"Adolfo Ruiz Cortines, Sin.",2
+-107.466667,25.033333,SIN,AWSSI,"Andrew Weiss, Sin.",0.01
+-107.5375,25.333333,SIN,BDRSI,"Badiraguato, Sin.",0.01
+-108.329167,26.736111,SIN,CHXSI,"Observatorio de Choix, Sin.",6.81
+-107.4,24.816667,SIN,CLCSI,"Culiacán, Sin.",0.01
+-109.333333,26.1,SIN,CRRSI,"El Carrizo, Sin.",14
+-107.35,24.316667,SIN,DRDSI,"El Dorado, Sin.",0.02
+-108.065556,25.484722,SIN,EBLSI,"Lic. Eustaquio Buelna, Sin.",0
+-108.616667,26.433333,SIN,EFTSI,"El Fuerte, Sin.",2.2
+-108.316667,26.083333,SIN,GB2SI,"El Sabinal hidrométrica, Sin.",1
+-108.3275,26.103056,SIN,GBESI,"Ing. Guillermo Blake Aguilar, Sin.",1
+-107.911944,25.855278,SIN,GD2SI,"Bacurato hidrométrica de Gustavo Díaz Ordaz, Sin.",0
+-108.091667,25.469444,SIN,GMCSI,"Guamúchil, Sin.",4.11
+-108.466667,25.716667,SIN,GSVSI,"Guasave, Sin.",4.5
+-107.225,25.344444,SIN,GTNSI,"Guatenipa, Sin.",0
+-109.301111,25.966111,SIN,HDZSI,"Higuera de Zaragoza, Sin.",1
+-106.595833,23.955556,SIN,IXPSI,"Ixpalino, Sin.",0.01
+-107.059444,24.753611,SIN,JGRSI,"Juan Guerrero Alcocer, Sin.",0
+-106.807222,24.571667,SIN,JLPSI,"José López Portillo, Sin.",0
+-108.013889,25.9,SIN,JNASI,"Jaina, Sin.",0.02
+-108.7025,26.426944,SIN,JORSI,"Josefa Ortiz de Domínguez, Sin.",11
+-106.9,23.916667,SIN,LCRSI,"La Cruz, Sin.",0
+-108.35,26.904167,SIN,LD2SI,"Huites hidrométrica, Sin.",4.6
+-108.367778,26.844722,SIN,LDCSI,"Luis Donaldo Colosio, Sin.",4.6
+-109,25.8,SIN,MCHSI,"Los Mochis, Sin.",8.3
+-106.4,23.233333,SIN,MZTSI,"Observatorio de Mazatlán, Sin.",0.01
+-107.440556,24.634722,SIN,OBSSI,"Observatorio de Culiacán, Sin.",0.01
+-108.58,26.509722,SIN,PMHSI,"Miguel Hidalgo, Sin.",1.8
+-106.466667,23.5625,SIN,QLTSI,"Quelite, Sin.",0
+-107.756111,25.124722,SIN,RAVSI,"Estación Rancho Viejo, Sin.",0.01
+-105.85,22.983333,SIN,RSRSI,"Rosario, Sin.",0
+-107.843333,25.485556,SIN,SANJUAN,"San Juan, Sin. SMN*",0
+-106.952778,24.484722,SIN,SCRSI,"Santa Cruz, Sin.",0.02
+-108.779167,26.073611,SIN,SFRSI,"Sufragio, Sin.",4
+-107.8425,25.486667,SIN,SJNSI,"San Juan, Sin.",0.02
+-107.1,24.45,SIN,SLRSI,"San Lorenzo, Sin.",0.02
+-106.695833,24.121944,SIN,SLTSI,"Ing. Aurelio Benassini Vizcaíno, Sin.",0
+-107.158333,24.813889,SIN,SN2SI,"Sanalona hidrométrica, Sin.",1.8
+-107.139444,24.800556,SIN,SNLSI,"Sanalona, Sin.",1.8
+-106.25,23.35,SIN,SQRSI,"Siqueros, Sin.",0.22
+-105.847222,23.088333,SIN,TORSI,"Las Tortugas, Sin.",0
+-107.059722,24.751111,SIN,VINSI,"Vinoramas, Sin.",1.5
+-108.358611,25.739167,SIN,ZOPSI,"El Zopilote, Sin.",1.01
+-98.558333,21.972222,SLP,AJTSL,"Las Adjuntas, S.L.P.",72.4
+-98.955833,21.748889,SLP,BLMSL,"Ballesmi, S.L.P.",71.6
+-99.030833,21.979722,SLP,CDVALLES,"Ciudad Valles, S.L.P. SMN*",16.2
+-99.016667,21.983333,SLP,CDVSL,"Ciudad Valles, S.L.P.",30
+-100.283056,22.431667,SLP,CTSSL,"Cerritos, S.L.P.",0
+-99.239444,21.906944,SLP,GANSL,"Gallinas, S.L.P.",43.6
+-100.820556,21.88,SLP,IVGSL,"Valentín Gama, S.L.P.",4.6
+-98.5575,21.965833,SLP,LASADJUNTASGN,"Las Adjuntas, S.L.P. SGT*",72.4
+-100.642778,23.656944,SLP,MATSL,"Matehuala, S.L.P.",74.4
+-99.159444,22.12,SLP,MICSL,"Micos, S.L.P.",17.5
+-98.8,21.333333,SLP,MTPSL,"Observatorio de Matlapa, S.L.P.",39.7
+-99.32,22.523333,SLP,NRJSL,"Naranjos, S.L.P.",33.4
+-100.762222,21.849722,SLP,OCTSL,"Ojo Caliente, S.L.P.",1.9
+-99.830556,21.651111,SLP,PMYSL,"Pedro Montoya, S.L.P.",39.8
+-98.939722,21.847222,SLP,PUJSL,"El Pujal, S.L.P.",70.1
+-98.888611,21.425,SLP,RQTSL,"Requetemu, S.L.P.",76.6
+-99.995,21.931389,SLP,RVDSL,"Observatorio de Río Verde, S.L.P.",15.2
+-101,22.2,SLP,SGRSL,"Soledad Graciano, S.L.P.",8.2
+-101.019167,22.148056,SLP,SLPSL,"Observatorio de San Luis Potosí, S.L.P.",24
+-99.055833,22.02,SLP,STRSL,"Santa Rosa, S.L.P.",25.11
+-98.857222,21.246667,SLP,TBLSL,"Tierra Blanca, S.L.P.",50
+-100.548333,21.629444,SLP,TIESL,"La Muñeca, S.L.P.",8.6
+-98.773333,22.003611,SLP,TMISL,"Observatorio de Tamuín, S.L.P.",52.6
+-98.758889,21.241111,SLP,TMTSL,"Temamatla, S.L.P.",32.8
+-110.226111,29.825,SON,ACNSO,"Aconchi, Son.",0
+-108.937778,27.021667,SON,ALASO,"Álamos, Son. SMN*",15
+-111.834444,30.714444,SON,ALTSO,"Observatorio de Altar, Son.",0
+-109.8925,27.8225,SON,AOBSO,"Alvaro Obregón, Son.",0
+-109.106667,27.226111,SON,ARCSO,"Adolfo Ruiz Cortines, Son.",0
+-109.088611,30.07,SON,ARISO,"Aribabi, Son.",0.01
+-110.92,29.076667,SON,ARLSO,"Abelardo Rodríguez Luján, Son.",0
+-110.1675,30.335833,SON,ARZSO,"Arizpe, Son.",0
+-110.238611,30.598889,SON,BCNSO,"Bacanuchi, Son.",0
+-108.931667,30.355278,SON,BCRSO,"Bacerac, Son.",0.01
+-109.666667,26.95,SON,BSCSO,"Basconcobe, Son.",0
+-109.968333,27.3,SON,C1CSO,"Calle Mil Doscientos y Canal Bajo, Son.",0
+-110.013056,27.483889,SON,C2CSO,"Calle Doscientos y Canal Bajo, Son.",0
+-109.979722,27.410278,SON,C6CSO,"Calle Seiscientos y Canal Bajo, Son.",0
+-109.625,27.416667,SON,CCRSO,"Cocoraque, Son.",0
+-109.904444,27.776667,SON,CHCSO,"Chiculi, Son.",0
+-111.516389,30.873333,SON,CHTSO,"Cuauhtémoc, Son.",0
+-109.492222,27.011944,SON,CINSO,"Casa del Ciano, Son.",2.3
+-110.736389,29.472222,SON,CJNSO,"El Cajón, Son.",0
+-110.290833,30.98,SON,CNNSO,"Cananea, Son.",2.3
+-109.931944,27.496389,SON,COBSO,"Ciudad Obregón, Son.",0.01
+-110.180278,27.300556,SON,CP1SO,"Calle Cuatro y Prolongación Doce, Son.",0
+-110.248611,27.425556,SON,CP6SO,"Calle Cuatro y Prolongación Seis, Son.",0
+-109.636944,27.244167,SON,CRCSO,"Cárcamo, Son.",0
+-108.7625,26.603611,SON,CZNSO,"Cazanate, Son.",8
+-109.233333,29.2,SON,ECBSO,"El Cubil, Son.",0
+-110.8,27.95,SON,EPLSO,"Observatorio de Empalme, Son.",0
+-109.629167,26.906944,SON,ETCSO,"Etchojoa, Son.",0
+-110.85,27.95,SON,GYMSO,"Guaymas, Son.",0
+-110.916667,29.066667,SON,HM2SO,"Observatorio de Hermosillo, Son.",0
+-110.925833,29.073056,SON,HMNSO,"Hermosillo, Son.",0
+-109.904167,27.713056,SON,HORSO,"Hornos, Son.",0
+-108.957222,30.210556,SON,HSHSO,"Huachinera, Son.",0
+-109.630556,26.822778,SON,HTBSO,"Huatabampo, Son.",0
+-110.886944,30.761667,SON,IMRSO,"Imuris, Son.",0.01
+-110.396944,28.426389,SON,IRASO,"Ignacio R. Alatorre, Son.",0
+-109.701944,26.801944,SON,JPRSO,"Júpare, Son.",0
+-109.6,27.1,SON,K10SO,"km 108 de Canal Alto, Son.",0
+-109.896389,27.706667,SON,K14SO,"km 14 de Canal Alto, Son.",0
+-109.9,27.78,SON,K20SO,"km 20, Son.",0
+-108.8725,27.642222,SON,K25SO,"km 25 de Canal Alto, Son.",0
+-109.346111,27.227778,SON,K38SO,"km 38, Son.",0
+-109.873889,27.560278,SON,K39SO,"km 39 de Canal Alto, Son.",0
+-109.845,27.436389,SON,K58SO,"km 58 de Canal Alto, Son.",0
+-109.858611,27.354444,SON,K68SO,"km 68 de Canal Alto, Son.",0
+-109.6,27.1,SON,K81SO,"km 81 de Canal Alto, Son.",0
+-109.933333,27.483333,SON,K91SO,"km 91 de Canal Alto, Son.",0
+-112.873056,30.786944,SON,LATSO,"La Té, Son.",0
+-109.378889,30.437778,SON,LCDSO,"Lázaro Cárdenas, Son.",0.2
+-109.710833,26.878611,SON,LNDSO,"Lindero, Son.",0
+-109.402222,26.806667,SON,MMNSO,"Mumuncuera, Son.",0
+-109.542778,27.076944,SON,NCHSO,"Nachuquis, Son.",0
+-109.6875,30.374444,SON,NCZSO,"Observatorio de Nacozari, Son.",0
+-110.947222,31.318889,SON,NGLSO,"Nogales, Son.",0
+-110.936667,31.267222,SON,NNRSO,"El Nainari, Son.",0
+-109.443333,27.071944,SON,NVJSO,"Navojoa, Son.",0
+-112.85,31.866667,SON,NYNSO,"Sonoyta, Son.",1.5
+-109.083333,29.433333,SON,PDNSO,"Paso Nácori, Son.",0
+-109.642222,28.976667,SON,PECSO,"Plutarco Elías Calles, Son.",0
+-109.930278,27.598333,SON,PFDSO,"Porfirio Díaz, Son.",0
+-110.725556,29.2125,SON,PMOSO,"Ing. Rodolfo Félix Valdés, Son.",0
+-109.086111,29.419722,SON,PNACORICFE,"Paso Nácori, Son. CFE*",0.5
+-113.550833,31.352778,SON,PT2SO,"Observatorio de Puerto Peñasco, Son.",0.01
+-110.308333,28.472222,SON,PTASO,"Punta de Agua 2, Son.",0.01
+-112.1,30.697778,SON,PTQSO,"Pitiquito, Son.",0
+-111.021389,30.050556,SON,QRBSO,"Querobabi, Son.",0
+-108.876667,27.411944,SON,SBNSO,"San Bernardo, Son.",6.61
+-109.571667,26.878889,SON,SE2SO,"Sebampo, Son.",0
+-110.246944,27.413056,SON,SI2SO,"San Ignacio, Son.",2
+-110.348333,28.713333,SON,SJPSO,"San José de Pimas, Son.",0
+-109.453333,26.918333,SON,SNHSO,"Sinahuiza, Son.",0
+-109.623611,27.025833,SON,SPESO,"San Pedro, Son.",0
+-111.445278,30.394722,SON,SRSSO,"Santa Rosa 2, Son.",0
+-109.358333,27.171111,SON,TESSO,"Tesia, Son.",0
+-109.531667,29.534722,SON,TPCSO,"Tepache, Son.",0
+-109.2125,27.658333,SON,TSOSO,"Tesocoma, Son.",0.01
+-110.289722,27.643611,SON,VCMSO,"Vícam, Son.",0.01
+-109.841944,27.125556,SON,VJZSO,"Villa Juárez, Son.",0
+-108.927778,28.371389,SON,YCRSO,"Yécora, Son.",5.02
+-91.535,17.756667,TAB,BALANCANHM,"Balancán, Tab. SGT*",5
+-91.483333,17.433333,TAB,BDCTB,"Boca del Cerro, Tab.",27.6
+-91.491944,17.425556,TAB,BOCADELCERRO,"Boca del Cerro, Tab. SGT*",24.5
+-93.376389,18.001111,TAB,CARTB,"Cárdenas, Tab.",37
+-91.229167,17.289722,TAB,CUSUMACINTA,"Cañón Usumacinta, Tab. SMN*",14
+-91.785278,17.857222,TAB,EMILIANOZAPATA,"Emiliano Zapata, Tab. SGT*",53
+-92.814722,18.043611,TAB,EPOTB,"El Porvenir, Tab.",64.5
+-91.75,17.75,TAB,EZATB,"Emiliano Zapata, Tab.",25.3
+-93,17.975,TAB,GONTB,"González, Tab.",48
+-93.066667,17.966667,TAB,GONZALEZ,"González, Tab. SGT*",0.1
+-92.167222,18.100556,TAB,JONUTAHM,"Jonuta hidrométrica, Tab. SGT*",79.8
+-92.6,17.766667,TAB,MACTB,"Macuspana, Tab.",43.8
+-93.316111,17.954444,TAB,MEZCALAPA,"Mezcalapa, Tab. SGT*",120.7
+-92.929444,17.98,TAB,OBSTB,"Observatorio de Villahermosa, Tab.",106.5
+-92.75,17.380556,TAB,OXOTB,"Oxolotán, Tab.",128
+-92.646389,18.406389,TAB,PCENTLA,"Pantanos de Centla, Tab. SMN*",21.4
+-93.879167,17.854167,TAB,PNVTB,"Pueblo Nuevo, Tab.",124.2
+-92.877222,18.010833,TAB,PORVENIR,"Porvenir, Tab. SGT*",71.6
+-92.976944,17.980278,TAB,POSTA,"La Posta, Tab. SGT*",116
+-93.383333,17.815278,TAB,PTESOLIDARIDAD,"Puente Solidaridad, Tab. SGT*",76.9
+-92.9375,17.566667,TAB,PUYTB,"Puyacatengo, Tab.",142.5
+-93.275556,17.996944,TAB,SAMTB,"Samaria, Tab.",86.7
+-91.158333,17.791667,TAB,SPTTB,"San Pedro, Tab.",0.2
+-92.778611,17.456944,TAB,TAPTB,"Tapijulapa, Tab.",138.3
+-92.966667,17.566667,TAB,TEATB,"Teapa, Tab.",89.6
+-92.607222,18.384722,TAB,TRESBRAZOS,"Tres Brazos, Tab. SGT*",16.5
+-92.96,17.96,TAB,VIEJOMEZCALAPA,"Viejo Mezcalapa, Tab. SGT*",16.8
+-98.370556,24.046667,TAMP,ABASOLO,"Abasolo, Tamps. SGT*",23
+-98.39,24.065556,TAMP,ABSTP,"Abasolo, Tamps.",21.7
+-97.925556,22.3875,TAMP,ALTAMIRAob,"Observatorio de Altamira, Tamps. SMN*",56.8
+-97.926944,22.386111,TAMP,BALTP,"Bombas Altamira, Tamps.",68.32
+-99.215278,24.103333,TAMP,BARRETALI,"Barretal Uno, Tamps. SGT*",53
+-99.214444,24.102778,TAMP,BARRETALII,"Barretal Dos, Tamps. SGT*",59.8
+-99.123056,24.080556,TAMP,BR1TP,"El Barretal Uno, Tamps.",52.8
+-99.215,24.1025,TAMP,BRRTP,"El Barretal, Tamps.",57.5
+-98.5975,26.238056,TAMP,CDOTP,"S J 2 18 Ciudad Díaz Ordaz, Tamps.",50.71
+-98.983056,22.744444,TAMP,CIUDADMANTE,"Ciudad Mante, Tamps. SMN*",24.5
+-98.8,26.25,TAMP,CMGTP,"S J 2 11 Camargo, Tamps.",71.13
+-99.148611,26.430556,TAMP,CMRTP,"Mier, Tamps.",66.03
+-97.817778,25.966389,TAMP,CONTP,"Control, Tamps.",121.22
+-98.935833,23.939167,TAMP,CORTP,"Corona, Tamps.",101.31
+-99.166667,23.716667,TAMP,CVCTP,"Observatorio de Ciudad Victoria, Tamps.",154.71
+-99.1875,23.730278,TAMP,CVTTP,"Ciudad Victoria, Tamps.",128.03
+-99.078611,23.384444,TAMP,ENNTP,"La Encantada, Tamps.",130.2
+-98.691667,22.605,TAMP,ERCTP,"Estudiante Ramiro Caballero Dorantes, Tamps.",38.8
+-98.159167,24.841944,TAMP,FDOTP,"San Fernando, Tamps.",77.9
+-99.170556,26.560278,TAMP,FLCTP,"Internacional Falcón, Tamps.",95.01
+-99.233611,26.408889,TAMP,LBLTP,"Derivadora Las Blancas, Tamps.",58.22
+-99.120556,22.852778,TAMP,LSRTP,"La Servilleta, Tamps.",38.4
+-99.551944,24.567778,TAMP,MAGTP,"Magueyes, Tamps.",61.6
+-97.433333,25.833333,TAMP,MATTP,"Matamoros, Tamps.",46.25
+-97.844167,22.283889,TAMP,MDRTP,"Madero, Tamps.",56.6
+-99.040833,26.374167,TAMP,MGATP,"S J 1 2 Miguel Alemán, Tamps.",58.43
+-98.705556,22.795833,TAMP,MGSTP,"Magiscatzín Dos, Tamps.",1.6
+-99.434444,24.2525,TAMP,MHGTP,"Miguel Hidalgo, Tamps.",46.2
+-98.925556,26.204722,TAMP,MRGTP,"Marte Rodolfo Gómez, Tamps.",58.22
+-98.903611,24.043889,TAMP,PADTP,"Padilla, Tamps.",36.21
+-97.8,25.8,TAMP,PANTP,"Pueblo Anáhuac, Tamps.",63.64
+-98.742778,23.725556,TAMP,PASOMOLINA,"Paso de Molina, Tamps. SGT*",90
+-98.745833,23.726667,TAMP,PDMTP,"Paso de Molina, Tamps.",86.3
+-99.019167,24.208056,TAMP,PILTP,"Pilón, Tamps.",55.81
+-99.555833,24.2475,TAMP,PJMTP,"Pedro José Méndez, Tamps.",74.7
+-99.597778,24.184444,TAMP,PVLTP,"Puerto de Valles, Tamps.",117.3
+-98,25.966667,TAMP,RIBTP,"Río Bravo, Tamps.",33.03
+-97.991944,23.259444,TAMP,RSPTP,"República Española, Tamps.",34.8
+-98.285833,26.079722,TAMP,RYATP,"S J 3 42 Reynosa, Tamps.",91.32
+-98.883333,26.166667,TAMP,RYNTP,"S J 2 9 Reynosa, Tamps.",91.32
+-98.869722,22.783889,TAMP,SACADEAGUA,"Saca de Agua, Tamps. SGT*",43.3
+-98.869444,22.784444,TAMP,SDATP,"Saca de Agua, Tamps.",43.9
+-98.7875,23.084167,TAMP,SGBTP,"San Gabriel, Tamps.",53.8
+-98.208889,23.762222,TAMP,SLMTP,"Observatorio de Soto la Marina, Tamps.",52.51
+-98.791389,22.943889,TAMP,SLZTP,"Lic. Emilio Portes Gil, Tamps.",49
+-99.274167,24.0225,TAMP,STETP,"Santa Engracia, Tamps.",60.1
+-97.876111,22.238333,TAMP,TMPTP,"Sistema Lagunario del Río Tamesí, Tamps.",37.4
+-98.421944,22.413611,TAMP,TMSTP,"Tamesí, Tamps.",51
+-97.804167,25.906111,TAMP,VCATP,"Villa Cárdenas, Tamps.",54.72
+-98.666389,23.959444,TAMP,VGRTP,"Vicente Guerrero, Tamps.",46.3
+-97.8,25.7,TAMP,VHMTP,"Valle Hermoso, Tamps.",52.54
+-99.551111,24.566667,TAMP,VSMTP,"Victoria San Marcos, Tamps.",114.5
+-98.563889,19.586111,TLAX,CPPTL,"Calpulalpan, Tlax.",8.81
+-97.769722,19.298889,TLAX,CUATL,"Cuapiaxtla, Tlax.",31.9
+-97.647222,19.318056,TLAX,ECTTL,"El Carmen Tequexquitla, Tlax.",12.5
+-97.911111,19.315833,TLAX,HMTTL,"Huamantla, Tlax.",24.7
+-98.246944,19.324722,TLAX,OBSTL,"Observatorio de Tlaxcala, Tlax.",33.9
+-98.200556,19.556111,TLAX,SJATL,"San José Atlanga, Tlax.",30
+-98.243056,19.219444,TLAX,ZACTL,"Zacatelco, Tlax.",18.9
+-97.908056,19.200278,TLAX,ZITTL,"Zitlaltepec, Tlax.",45.4
+-96.843889,19.695833,VER,ACAVC,"Acatlán, Ver.",58.32
+-96.5875,19.495,VER,ACTVC,"Actopan, Ver.",21.6
+-94.144444,18.141667,VER,AGDVC,"Agua Dulce, Ver.",175.02
+-97.68,20.93,VER,ALAVC,"Alamo Temapache, Ver.",34
+-97.234722,19.7625,VER,ALTVC,"Altotonga, Ver.",66.24
+-95.4375,18.583333,VER,ARCVC,"Angel Rosario Cabada, Ver.",142.33
+-96.944444,19.588889,VER,BANVC,"Banderilla, Ver.",88
+-96.933333,19.483333,VER,BRIVC,"Briones, Ver.",70.74
+-94.253889,17.954444,VER,CB2VC,"Planta de bombeo 2 de La Cangrejera, Ver.",66.52
+-95.8,18.3,VER,CCLVC,"Chacaltianguis, Ver.",18.2
+-96.994444,19.332778,VER,CDCVC,"Cosautlán de Carvajal, Ver.",86.71
+-96.697778,19.433056,VER,CEGVC,"Cerro Gordo, Ver.",27.9
+-96.853611,18.563333,VER,CHMVC,"Chicomapa, Ver.",113.9
+-98.155833,21.7375,VER,CHYVC,"Paso de Piedras, Ver.",26.6
+-97.545,21.068333,VER,CLHVC,"Chalahuite, Ver.",83
+-96.939444,19.453889,VER,COAVC,"Coatepec, Ver.",52.71
+-94.4,18.1,VER,COTVC,"Observatorio de Coatzacoalcos, Ver.",154.71
+-96.374444,19.364722,VER,CRDVC,"Cardel, Ver.",131.02
+-96.647222,19.320278,VER,CRRVC,"Carrizal, Ver.",23.03
+-95.295833,18.144444,VER,CTTVC,"Cuatotolapan, Ver.",8.81
+-95.970833,19.040833,VER,ELSALADOmar,"El Salado, Ver. SEMAR*",37.02
+-96.36,19.405833,VER,ENRVC,"El Naranjillo, Ver.",39.5
+-97.399167,20.2575,VER,ESPVC,"El Espinal, Ver.",56.11
+-96.158333,19.067222,VER,ETEVC,"El Tejar, Ver.",98.51
+-95.556944,18.270556,VER,GARVC,"Garro, Ver.",8.01
+-98.459167,21.773611,VER,HGOVC,"El Higo, Ver.",48.2
+-98.2875,21.194444,VER,HLSVC,"Los Hules, Ver.",5.6
+-96.950833,19.181667,VER,HTSVC,"Huatusco, Ver.",69.51
+-98.483333,20.533333,VER,HUYVC,"Huayacocotla, Ver.",47.5
+-96.554167,19.404167,VER,IDOVC,"Ídolos, Ver.",51.52
+-96.884444,19.604722,VER,INCVC,"Ingenio Concepción, Ver.",133.02
+-94.666667,17.95,VER,JALVC,"Jáltipan, Ver.",67.7
+-96.241389,19.042778,VER,JAMAPA,"Jamapa, Ver. SGT*",63.5
+-95.033333,17.433333,VER,JCRVC,"Jesús Carranza, Ver.",102
+-94.088889,17.873611,VER,JDCVC,"San José del Carmen, Ver.",71.9
+-97.3,19.816667,VER,JLNVC,"Jalacingo, Ver.",88
+-97.021111,19.603611,VER,JOYVC,"La Joya, Ver.",59.62
+-95.359722,18.25,VER,LAUVC,"Lauchapan, Ver.",11.91
+-94.330833,18.109444,VER,LCAVC,"La Cangrejera, Ver.",168.01
+-95.118333,18.415833,VER,LDCVC,"Canseco, Ver.",16.51
+-97.232778,18.928889,VER,LGRVC,"Loma Grande, Ver.",70
+-96.972778,20.051944,VER,LIBVC,"Libertad, Ver.",79.43
+-96.41,19.261389,VER,LOFVC,"Loma Fina, Ver.",46.01
+-97.236944,18.925278,VER,LOMAGRANDE,"Loma Grande, Ver. SMN*",39.5
+-94.913889,17.416667,VER,LPEVC,"Las Perlas, Ver.",178.1
+-97.1,19.65,VER,LVRVC,"Las Vigas de Ramírez, Ver.",44.6
+-97.048333,20.0675,VER,MDTVC,"Martínez de la Torre, Ver.",90.94
+-96.333333,19.15,VER,MFAVC,"Manlio Fabio Altamirano, Ver.",88.53
+-94.771111,18.135278,VER,MNZVC,"Minzapan, Ver.",26.04
+-96.833333,19.933333,VER,MZNVC,"Misantla, Ver.",162.5
+-96.872222,19.65,VER,NAOVC,"Naolinco, Ver.",142.42
+-98.503889,21.832222,VER,OLVVC,"El Olivo, Ver.",57
+-97.1,18.85,VER,ORIZABAob,"Observatorio de Orizaba, Ver. SMN*",97.4
+-97.1,18.85,VER,ORZVC,"Observatorio de Orizaba, Ver.",89.92
+-96.97,19.55,VER,OTIVC,"Otilpan, Ver.",153.4
+-96.523889,18.823611,VER,PALOAMARILLO,"Palo Amarillo, Ver. SGT*",10.4
+-96.4475,19.293056,VER,PASOOVEJAS,"Paso de Ovejas, Ver. SGT*",89.4
+-94.3775,18.103611,VER,PB3VC,"Planta de bombeo 3 de La Cangrejera, Ver.",137.7
+-94.193611,17.872778,VER,PCNVC,"Planta de bombeo 1 de La Cangrejera, Ver.",91.02
+-97.814444,21.184444,VER,PEMVC,"El Moralillo, Ver.",33.5
+-97.268333,19.545,VER,PEROTESMN,"Perote, Ver. SMN*",15.5
+-97.238889,19.580556,VER,PERVC,"Perote, Ver.",38.61
+-98.176667,22.06,VER,PNCVC,"Pánuco, Ver.",22
+-97.475,20.543333,VER,POZARICA,"Poza Rica, Ver. SGT*",59.9
+-97.316667,20.45,VER,PPNVC,"Papantla, Ver.",79.3
+-97.478333,20.540833,VER,PRCVC,"Poza Rica, Ver.",50.34
+-98.356667,21.297778,VER,PSNVC,"Platón Sánchez, Ver.",11.2
+-96.704444,18.821944,VER,PTEAUTOPISTA,"Puente de la Autopista, Ver. SGT*",59.3
+-97.039444,18.845556,VER,PTUXPANGO,"Presa Tuxpango, Ver. SMN*",51.6
+-95.627778,18.716667,VER,RALVC,"Radar Alvarado, Ver.",49.43
+-96.713889,20.157778,VER,RAUVC,"El Raudal, Ver.",118.05
+-97.809722,20.887222,VER,SBTVC,"Sombrerete, Ver.",28.17
+-95.183333,18.45,VER,SIHVC,"Sihuapan, Ver.",4.03
+-95.145833,17.883333,VER,SJEVC,"San Juan Evangelista, Ver.",81.92
+-96.427778,19.043333,VER,SOLEDADDOB,"Soledad de Doblado, Ver. SGT*",15
+-95.033333,18.516667,VER,SONVC,"Sontecomapan, Ver.",210.62
+-95.212778,18.450833,VER,STXVC,"San Andrés Tuxtla AC, Ver.",33.1
+-96.488889,19.338889,VER,TAMVC,"Tamarindo, Ver.",15
+-96.966667,19.45,VER,TAPVC,"Tapachapan, Ver.",67
+-96.356389,18.449167,VER,TBPVC,"Tierra Blanca AC, Ver.",14.4
+-96.966667,19.383333,VER,TCOVC,"Teocelo, Ver.",114
+-94.163333,17.571944,VER,TMOVC,"Tierra Morada, Ver.",169
+-98.409444,21.499722,VER,TMPVC,"Tempoal, Ver.",17.8
+-96.916667,19.811111,VER,TNCVC,"Tenochtitlán, Ver.",139.7
+-97.2225,19.921944,VER,TOMVC,"Tomata, Ver.",160.02
+-96.950278,19.233611,VER,TOTVC,"Totutla, Ver.",64.62
+-98.153056,21.040833,VER,TRRVC,"Terrerillos, Ver.",13.2
+-97.4,20.955556,VER,TXPVC,"Observatorio de Tuxpan, Ver.",79.62
+-95.436111,18.466667,VER,TZAVC,"Tres Zapotes, Ver.",43.3
+-96.111111,19.154167,VER,VERVC,"Observatorio de Veracruz, Ver.",74.21
+-96.613889,19.022222,VER,VTEVC,"Villa Tejeda, Ver.",25.03
+-96.85,19.55,VER,XCFVC,"Xalapa CFE, Ver.",66.42
+-96.916667,19.533333,VER,XOBVC,"Observatorio de Xalapa, Ver.",58.92
+-96.894444,19.555833,VER,XSUVC,"Xalapa Sumidero, Ver.",69.01
+-97.388889,19.413889,VER,ZALVC,"Zalayeta, Ver.",34
+-89.681111,20.649444,YUC,ABAYC,"Abalá, Yuc.",4.5
+-89.218889,19.883056,YUC,BECYC,"Becanchén, Yuc.",11
+-89.081667,20.463056,YUC,CANYC,"Cantamayec, Yuc.",1
+-90.3825,20.858056,YUC,CELYC,"Celestún, Yuc. SMN*",0
+-89.829444,20.752778,YUC,CHOYC,"Chocholá, Yuc.",6.3
+-89.637778,21.030278,YUC,CICYC,"Centro de Investigación Científica, Yuc.",0
+-89.501111,21.078889,YUC,CONYC,"Conkal, Yuc.",0
+-87.676667,21.5125,YUC,CYOYC,"El Cuyo, Yuc.",0.01
+-89.476389,20.360556,YUC,DZAYC,"Dzan, Yuc.",0
+-89.583611,20.983889,YUC,EZAYC,"Emiliano Zapata, Yuc.",0
+-89.642778,21.048889,YUC,FIYYC,"Facultad de Ingeniería Universidad Autónoma de Yucatán, Yuc.",0
+-89.658056,20.984167,YUC,GARYC,"Organismo de Cuenca Península de Yucatán, Yuc.",0.1
+-89.651111,20.946389,YUC,MEOYC,"Observatorio de Mérida, Yuc.",0.4
+-89.4375,21.105556,YUC,MOCYC,"Mocochá, Yuc.",0
+-89.299444,21.102222,YUC,MTOYC,"Motul, Yuc.",0
+-89.711667,20.493333,YUC,MUNYC,"Muna, Yuc.",0.61
+-89.394722,20.291111,YUC,OXKUTZCAB,"Oxkutzcab, Yuc. SMN*",0.6
+-89.394722,20.291111,YUC,OXKYC,"Oxkutzcab, Yuc.",0.02
+-88.930833,20.1325,YUC,PETYC,"Peto, Yuc.",21.01
+-89.653889,21.276944,YUC,PROGRESOob,"Observatorio de Progreso, Yuc. SMN*",4.4
+-89.653889,21.275833,YUC,PROYC,"Observatorio de Progreso, Yuc.",4.4
+-89.046944,20.030278,YUC,TANYC,"Tantaquín, Yuc.",10.5
+-89.558056,20.397778,YUC,TICYC,"Ticul, Yuc.",0
+-88.1725,21.158611,YUC,TIZYC,"Tizimín, Yuc.",14.2
+-89.047222,20.030278,YUC,TNTYC,"Tantaquín, Yuc. SMN*",1.52
+-88.204167,20.69,YUC,VALYC,"Observatorio de Valladolid, Yuc.",14.1
+-103.338611,23.230556,ZAC,ABREGO,"Abrego, Zac. INIFAP*",21.6
+-103.087778,21.475556,ZAC,APOZOLCFE,"Apozol, Zac. CFE*",2.4
+-103.459167,21.811389,ZAC,ATGZC,"Atolinga, Zac.",6.01
+-102.951667,22.823611,ZAC,BTEZC,"Ramón López Velarde, Zac.",13.1
+-102.733889,23.602222,ZAC,CANITAS,"Cañitas, Zac. INIFAP*",18
+-103.571111,22.782222,ZAC,CBTAVALPARAISO,"Centro de Bachillerato Tecnológico Agropecuario Valparaíso, Zac. INIFAP*",16.4
+-102.659167,22.908611,ZAC,CEXPZACATECAS,"Campo Experimental Zacatecas, Zac. INIFAP*",6.8
+-102.271667,23.039167,ZAC,CHAPARROSA,"Chaparrosa, Zac. INIFAP*",8.1
+-102.889167,22,ZAC,CHIZC,"El Chique, Zac.",5.2
+-102.341667,23.283611,ZAC,COBAEZVILLACOS,"Cobaez Villa de Cos, Zac. INIFAP*",7.2
+-103.036111,23.216944,ZAC,COLEMANCIPACION,"Colonia Emancipación, Zac. INIFAP*",3.6
+-103.451667,23.969722,ZAC,COLGLZORTEGA,"Colonia González Ortega, Zac. INIFAP*",13.4
+-103.329167,23.816389,ZAC,COLPROGRESO,"Colonia Progreso, Zac. INIFAP*",10.2
+-101.389444,24.621389,ZAC,CORZC,"Concepción del Oro, Zac.",39.4
+-102.347222,22.453056,ZAC,CUAZC,"Ciudad Cuauhtémoc, Zac.",1.5
+-103.388611,24.118889,ZAC,CUNO,"Campo 1, Zac. INIFAP*",7.5
+-103.669444,23.953889,ZAC,EJIDOZARAGOZA,"Ejido Zaragoza, Zac. INIFAP*",15
+-103.093611,23.693056,ZAC,ELCZC,"El Cazadero, Zac.",25.6
+-102.249167,22.496944,ZAC,ELGRANCHAPARRAL,"El Gran Chaparral, Zac. INIFAP*",4.3
+-102.070556,22.688889,ZAC,ELSALADILLO,"El Saladillo, Zac. INIFAP*",20.2
+-102.040833,22.673056,ZAC,ELSZC,"El Saladillo, Zac.",12.24
+-103.537778,23.785833,ZAC,EMILIANOZAPATAZ,"Emiliano Zapata, Zac. INIFAP*",16.9
+-101.98,22.521667,ZAC,ESTDEANIMAS,"Estancia de Ánimas, Zac. INIFAP*",22.6
+-103.339722,21.649444,ZAC,EXCZC,"Miguel Alemán, Zac.",6.14
+-102.890833,23.173889,ZAC,FREZC,"Fresnillo, Zac.",13.4
+-103.093333,21.933333,ZAC,GJAZC,"General Joaquín Amaro, Zac.",18.04
+-102.506667,22.746944,ZAC,GPEZC,"Guadalupe, Zac.",4.8
+-102.46,22.4875,ZAC,GRCZC,"Genaro Codina, Zac.",19
+-103.605833,21.223889,ZAC,HITZC,"Huitzila, Zac.",5.61
+-103.397778,24.281667,ZAC,JALZC,"Juan Aldama, Zac.",19.96
+-103.113889,21.404167,ZAC,JCHZC,"Juchipila, Zac.",0
+-103.001944,22.642778,ZAC,JERZC,"Jerez, Zac.",15.21
+-101.616667,22.278889,ZAC,LAVICTORIAZC,"La Victoria, Zac. INIFAP*",12
+-102.566944,22.778889,ZAC,LBUZC,"Observatorio de Zacatecas, Zac.",4.1
+-103.603056,22.687222,ZAC,LFLZC,"La Florida, Zac.",24.53
+-102.660556,22.996944,ZAC,LLBZC,"Llano Blanco, Zac.",30.61
+-102.251667,22.438889,ZAC,LMOZC,"Luis Moya, Zac.",0
+-103.383333,22.836667,ZAC,LOBZC,"Manuel Felgueres, Zac.",30
+-102.001111,22.278611,ZAC,LORETO,"Loreto, Zac. INIFAP*",2.2
+-101.985556,22.264722,ZAC,LORZC,"Loreto, Zac.",2.61
+-103.216944,23.18,ZAC,LREZC,"Gobernador Leobardo Reynoso, Zac.",22.3
+-102.151667,24.185556,ZAC,MARIANITA,"Marianita, Zac. INIFAP*",31.2
+-103.443056,24.2875,ZAC,MGAZC,"Miguel Auza, Zac.",15.3
+-103.31,21.933889,ZAC,MOMAX,"Momax, Zac. INIFAP*",13
+-103.362222,21.212778,ZAC,MORZC,"Mezquital del Oro, Zac.",6.01
+-103.561667,22.306944,ZAC,MRSZC,"Monte Escobedo, Zac.",21.4
+-102.845556,21.3575,ZAC,NCTZC,"Nochistlán, Zac.",2.7
+-102.615,24.983056,ZAC,NTAZC,"Nuevo Tampico, Zac.",25.7
+-102.269444,22.577778,ZAC,OCAZC,"Ojo Caliente, Zac.",15
+-102.796667,22.347222,ZAC,PALZC,"Palomas, Zac.",6.3
+-101.399167,22.117778,ZAC,PINZC,"Pino Suárez, Zac.",36.3
+-104.052778,22.610278,ZAC,PLATANITOCFE,"El Platanito, Zac. CFE*",1.5
+-102.903611,21.711111,ZAC,PMOZC,"Los Moraleños, Zac.",1.52
+-103.728889,23.7175,ZAC,PROVIDENCIAZC,"Providencia, Zac. INIFAP*",23
+-102.9325,23.393056,ZAC,RGRANDEZC,"Rancho Grande, Zac. INIFAP*",6.4
+-103.025833,23.816944,ZAC,RGRZC,"Río Grande, Zac.",15.72
+-103.04,22.539722,ZAC,SANTAFEZC,"Santa Fe, Zac. INIFAP*",6.6
+-102.8825,24.326111,ZAC,SFOZC,"San Francisco, Zac.",51.91
+-103.506667,24.288611,ZAC,SGOZC,"Santiago, Zac.",20.4
+-102.178333,23.4575,ZAC,SIERRAVIEJA,"Sierra Vieja, Zac. INIFAP*",6.2
+-103.636389,23.638889,ZAC,SOMZC,"Observatorio de Sombrerete, Zac.",25.83
+-103.493333,22.333056,ZAC,STEZC,"Independencia Nacional, Zac.",10.41
+-103.112778,22.925833,ZAC,STRZC,"Santa Rosa, Zac.",28.41
+-102.859167,22.120833,ZAC,TAYZC,"Ing. Julián Adame Alatorre, Zac.",3.11
+-103.88,23.471944,ZAC,TCHZC,"Chalchihuites, Zac.",15.3
+-103.461944,21.468611,ZAC,TGOZC,"Teúl de González Ortega, Zac.",3.72
+-102.786389,21.560556,ZAC,TLAZC,"Tlalchichila, Zac.",2.73
+-103.309444,21.773611,ZAC,TLLZC,"Tlaltenango, Zac.",14.06
+-102.686111,22.724444,ZAC,UAAGRONOMIA,"Unidad Académica de Agronomía, Zac. INIFAP*",16.8
+-102.51,22.757222,ZAC,UABIOLOGIA,"Unidad Académica de Biología, Zac. INIFAP*",5.8
+-102.344167,23.288889,ZAC,VCOZC,"Villa de Cos, Zac.",9
+-101.917222,22.520556,ZAC,VGOZC,"Villa González Ortega, Zac.",8.42
+-101.715833,22.347222,ZAC,VHGZC,"Villa Hidalgo, Zac.",7.92
+-103.337778,21.604722,ZAC,VILZC,"José María Morelos, Zac.",3.41
+-102.880278,22.310556,ZAC,VLLLANUEVA,"Villanueva, Zac. INIFAP*",3.2
+-102.506111,22.746667,ZAC,ZA2ZC,"Zacatecas, Zac. SMN*",5.29
+-102.585556,22.765,ZAC,ZACZC,"Zacatecas, Zac.",4.8
