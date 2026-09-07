@@ -3279,41 +3279,41 @@ CVE_ENT,CVE_MUN,nombre_entidad,NOMGEO,anio,nomcicloproductivo,temp_min_ciclo_min
 06,006,Colima,Ixtlahuacán,2016,PV,19.1,18.6
 06,007,Colima,Manzanillo,2016,PV,19.1,19.3
 06,009,Colima,Tecomán,2016,PV,16.9,17.1
-07,001,Chiapas,Acacoyagua,2016,PV,21.4,19.6
+07,001,Chiapas,Acacoyagua,2016,PV,21.0,19.6
 07,002,Chiapas,Acala,2016,PV,22.2,14.6
 07,008,Chiapas,Ángel Albino Corzo,2016,PV,18.7,12.1
 07,009,Chiapas,Arriaga,2016,PV,17.8,19.0
 07,019,Chiapas,Comitán de Domínguez,2016,PV,15.6,11.4
 07,020,Chiapas,La Concordia,2016,PV,20.2,14.0
 07,027,Chiapas,Chiapa de Corzo,2016,PV,20.9,14.6
-07,029,Chiapas,Chicoasén,2016,PV,23.1,16.5
-07,030,Chiapas,Chicomuselo,2016,PV,18.6,13.4
-07,032,Chiapas,Escuintla,2016,PV,22.6,18.5
+07,029,Chiapas,Chicoasén,2016,PV,23.0,16.5
+07,030,Chiapas,Chicomuselo,2016,PV,17.9,13.4
+07,032,Chiapas,Escuintla,2016,PV,22.4,18.5
 07,034,Chiapas,Frontera Comalapa,2016,PV,19.3,14.5
-07,037,Chiapas,Huehuetán,2016,PV,23.1,
-07,040,Chiapas,Huixtla,2016,PV,22.7,19.7
+07,037,Chiapas,Huehuetán,2016,PV,22.7,
+07,040,Chiapas,Huixtla,2016,PV,22.6,19.7
 07,046,Chiapas,Jiquipilas,2016,PV,19.8,14.3
 07,049,Chiapas,Larráinzar,2016,PV,21.8,16.6
-07,051,Chiapas,Mapastepec,2016,PV,22.5,19.6
+07,051,Chiapas,Mapastepec,2016,PV,22.4,19.6
 07,059,Chiapas,Ocosingo,2016,PV,22.0,17.9
 07,062,Chiapas,Ostuacán,2016,PV,22.5,17.8
-07,063,Chiapas,Osumacinta,2016,PV,22.3,17.2
+07,063,Chiapas,Osumacinta,2016,PV,21.9,17.2
 07,068,Chiapas,Pichucalco,2016,PV,22.8,18.4
-07,069,Chiapas,Pijijiapan,2016,PV,24.0,21.0
-07,071,Chiapas,Villa Comaltitlán,2016,PV,23.4,19.6
+07,069,Chiapas,Pijijiapan,2016,PV,23.7,21.0
+07,071,Chiapas,Villa Comaltitlán,2016,PV,23.1,19.6
 07,077,Chiapas,Salto de Agua,2016,PV,22.0,17.8
 07,078,Chiapas,San Cristóbal de las Casas,2016,PV,10.9,5.7
-07,086,Chiapas,Suchiapa,2016,PV,21.4,16.3
-07,089,Chiapas,Tapachula,2016,PV,20.7,16.4
+07,086,Chiapas,Suchiapa,2016,PV,21.1,16.3
+07,089,Chiapas,Tapachula,2016,PV,20.6,16.4
 07,092,Chiapas,Tecpatán,2016,PV,20.1,16.3
-07,097,Chiapas,Tonalá,2016,PV,23.0,20.1
+07,097,Chiapas,Tonalá,2016,PV,22.7,20.1
 07,099,Chiapas,La Trinitaria,2016,PV,19.8,15.1
 07,101,Chiapas,Tuxtla Gutiérrez,2016,PV,21.6,16.2
-07,106,Chiapas,Venustiano Carranza,2016,PV,20.1,13.9
+07,106,Chiapas,Venustiano Carranza,2016,PV,19.6,13.9
 07,107,Chiapas,Villa Corzo,2016,PV,19.8,13.9
 07,108,Chiapas,Villaflores,2016,PV,17.8,12.4
-07,123,Chiapas,Emiliano Zapata,2016,PV,20.6,15.3
-07,124,Chiapas,Mezcalapa,2016,PV,24.0,19.1
+07,123,Chiapas,Emiliano Zapata,2016,PV,20.1,15.3
+07,124,Chiapas,Mezcalapa,2016,PV,23.9,19.1
 08,002,Chihuahua,Aldama,2016,PV,16.0,4.9
 08,006,Chihuahua,Bachíniva,2016,PV,5.1,-0.5
 08,007,Chihuahua,Balleza,2016,PV,0.3,-5.0
@@ -3364,20 +3364,20 @@ CVE_ENT,CVE_MUN,nombre_entidad,NOMGEO,anio,nomcicloproductivo,temp_min_ciclo_min
 10,012,Durango,Lerdo,2016,PV,15.9,8.5
 10,013,Durango,Mapimí,2016,PV,10.2,2.4
 10,015,Durango,Nazas,2016,PV,10.6,5.4
-10,017,Durango,Ocampo,2016,PV,11.9,2.6
+10,017,Durango,Ocampo,2016,PV,11.3,2.6
 10,018,Durango,El Oro,2016,PV,6.0,0.1
 10,020,Durango,Pánuco de Coronado,2016,PV,6.8,5.7
 10,022,Durango,Poanas,2016,PV,7.3,4.7
 10,024,Durango,Rodeo,2016,PV,11.8,7.2
 10,025,Durango,San Bernardo,2016,PV,-0.5,-2.1
-10,027,Durango,San Juan de Guadalupe,2016,PV,15.1,7.6
+10,027,Durango,San Juan de Guadalupe,2016,PV,13.6,7.6
 10,030,Durango,San Pedro del Gallo,2016,PV,9.2,5.6
 10,031,Durango,Santa Clara,2016,PV,7.8,6.4
 10,032,Durango,Santiago Papasquiaro,2016,PV,7.7,3.6
 10,033,Durango,Súchil,2016,PV,8.6,4.6
 10,034,Durango,Tamazula,2016,PV,15.4,14.3
 10,036,Durango,Tlahualilo,2016,PV,13.8,6.6
-11,001,Guanajuato,Abasolo,2016,PV,15.3,9.8
+11,001,Guanajuato,Abasolo,2016,PV,15.0,9.8
 11,002,Guanajuato,Acámbaro,2016,PV,12.6,7.7
 11,003,Guanajuato,San Miguel de Allende,2016,PV,9.2,4.8
 11,004,Guanajuato,Apaseo el Alto,2016,PV,13.4,7.9
@@ -3408,16 +3408,16 @@ CVE_ENT,CVE_MUN,nombre_entidad,NOMGEO,anio,nomcicloproductivo,temp_min_ciclo_min
 12,003,Guerrero,Ajuchitlán del Progreso,2016,PV,17.4,17.9
 12,005,Guerrero,Alpoyeca,2016,PV,17.2,13.5
 12,011,Guerrero,Atoyac de Álvarez,2016,PV,20.3,21.3
-12,012,Guerrero,Ayutla de los Libres,2016,PV,20.0,
+12,012,Guerrero,Ayutla de los Libres,2016,PV,19.8,
 12,014,Guerrero,Benito Juárez,2016,PV,22.2,21.5
-12,015,Guerrero,Buenavista de Cuéllar,2016,PV,15.4,13.8
+12,015,Guerrero,Buenavista de Cuéllar,2016,PV,15.3,13.8
 12,018,Guerrero,Copala,2016,PV,26.5,24.4
 12,021,Guerrero,Coyuca de Benítez,2016,PV,21.3,20.9
 12,023,Guerrero,Cuajinicuilapa,2016,PV,22.1,20.4
 12,028,Guerrero,Chilapa de Álvarez,2016,PV,14.2,10.7
 12,029,Guerrero,Chilpancingo de los Bravo,2016,PV,12.5,13.2
 12,034,Guerrero,Huitzuco de los Figueroa,2016,PV,18.7,13.3
-12,035,Guerrero,Iguala de la Independencia,2016,PV,20.0,15.0
+12,035,Guerrero,Iguala de la Independencia,2016,PV,19.7,15.0
 12,036,Guerrero,Igualapa,2016,PV,19.7,18.0
 12,038,Guerrero,Zihuatanejo de Azueta,2016,PV,20.6,20.1
 12,039,Guerrero,Juan R. Escudero,2016,PV,21.2,19.7
@@ -3426,12 +3426,12 @@ CVE_ENT,CVE_MUN,nombre_entidad,NOMGEO,anio,nomcicloproductivo,temp_min_ciclo_min
 12,045,Guerrero,Olinalá,2016,PV,17.6,10.5
 12,050,Guerrero,Pungarabato,2016,PV,22.6,18.6
 12,053,Guerrero,San Marcos,2016,PV,12.1,12.6
-12,055,Guerrero,Taxco de Alarcón,2016,PV,15.9,14.8
-12,057,Guerrero,Técpan de Galeana,2016,PV,20.6,20.8
-12,061,Guerrero,Tixtla de Guerrero,2016,PV,11.8,11.0
+12,055,Guerrero,Taxco de Alarcón,2016,PV,15.7,14.8
+12,057,Guerrero,Técpan de Galeana,2016,PV,20.5,20.8
+12,061,Guerrero,Tixtla de Guerrero,2016,PV,11.2,11.0
 12,066,Guerrero,Tlapa de Comonfort,2016,PV,18.2,13.5
 12,068,Michoacán,La Unión de Isidoro Montes de Oca,2016,PV,22.6,22.6
-12,070,Guerrero,Xochihuehuetlán,2016,PV,18.1,11.3
+12,070,Guerrero,Xochihuehuetlán,2016,PV,18.0,11.3
 12,073,Guerrero,Zirándaro,2016,PV,17.0,14.6
 12,082,Guerrero,Las Vigas,2016,PV,16.3,19.2
 13,003,Hidalgo,Actopan,2016,PV,10.5,4.5
@@ -3448,7 +3448,7 @@ CVE_ENT,CVE_MUN,nombre_entidad,NOMGEO,anio,nomcicloproductivo,temp_min_ciclo_min
 13,046,Hidalgo,San Felipe Orizatlán,2016,PV,20.7,12.9
 13,048,Hidalgo,Pachuca de Soto,2016,PV,10.0,4.5
 13,064,Hidalgo,Tepetitlán,2016,PV,10.9,5.5
-13,077,Hidalgo,Tulancingo de Bravo,2016,PV,11.8,6.6
+13,077,Hidalgo,Tulancingo de Bravo,2016,PV,11.7,6.6
 13,081,Hidalgo,Zacualtipán de Ángeles,2016,PV,11.1,5.1
 13,084,Hidalgo,Zimapán,2016,PV,14.4,8.6
 14,006,Jalisco,Ameca,2016,PV,10.7,7.3
@@ -3483,7 +3483,7 @@ CVE_ENT,CVE_MUN,nombre_entidad,NOMGEO,anio,nomcicloproductivo,temp_min_ciclo_min
 15,003,Estado de México,Aculco,2016,PV,7.1,2.6
 15,003,Querétaro,Aculco,2016,PV,10.7,5.4
 15,005,Estado de México,Almoloya de Juárez,2016,PV,3.0,-0.8
-15,011,Estado de México,Atenco,2016,PV,9.4,6.7
+15,011,Estado de México,Atenco,2016,PV,9.1,6.7
 15,013,Estado de México,Atizapán de Zaragoza,2016,PV,10.8,5.9
 15,014,Estado de México,Atlacomulco,2016,PV,3.9,0.7
 15,020,Estado de México,Coacalco de Berriozábal,2016,PV,13.0,
@@ -3508,10 +3508,10 @@ CVE_ENT,CVE_MUN,nombre_entidad,NOMGEO,anio,nomcicloproductivo,temp_min_ciclo_min
 15,106,Estado de México,Toluca,2016,PV,5.1,0.6
 15,109,Estado de México,Tultitlán,2016,PV,12.8,7.4
 15,112,Estado de México,Villa del Carbón,2016,PV,7.1,2.0
-15,113,Estado de México,Villa Guerrero,2016,PV,9.8,6.5
-15,118,Estado de México,Zinacantepec,2016,PV,6.8,1.9
+15,113,Estado de México,Villa Guerrero,2016,PV,9.7,6.5
+15,118,Estado de México,Zinacantepec,2016,PV,5.1,1.9
 16,003,Michoacán,Álvaro Obregón,2016,PV,9.5,5.5
-16,004,Michoacán,Angamacutiro,2016,PV,14.4,8.7
+16,004,Michoacán,Angamacutiro,2016,PV,13.4,8.7
 16,006,Michoacán,Apatzingán,2016,PV,19.0,16.8
 16,010,Michoacán,Arteaga,2016,PV,24.0,20.7
 16,011,Michoacán,Briseñas,2016,PV,14.1,
@@ -3521,11 +3521,11 @@ CVE_ENT,CVE_MUN,nombre_entidad,NOMGEO,anio,nomcicloproductivo,temp_min_ciclo_min
 16,035,Michoacán,La Huacana,2016,PV,20.0,17.7
 16,039,Michoacán,Huiramba,2016,PV,11.2,
 16,042,Michoacán,Ixtlán,2016,PV,11.7,
-16,049,Michoacán,Madero,2016,PV,13.3,
+16,049,Michoacán,Madero,2016,PV,12.3,
 16,050,Michoacán,Maravatío,2016,PV,9.5,5.6
 16,053,Michoacán,Morelia,2016,PV,12.5,7.7
 16,067,Michoacán,Penjamillo,2016,PV,11.6,7.9
-16,069,Michoacán,La Piedad,2016,PV,15.1,7.1
+16,069,Michoacán,La Piedad,2016,PV,14.1,7.1
 16,076,Michoacán,Sahuayo,2016,PV,10.5,7.7
 16,080,Michoacán,Senguio,2016,PV,8.5,5.8
 16,085,Michoacán,Tangancícuaro,2016,PV,11.1,4.1
@@ -3535,8 +3535,8 @@ CVE_ENT,CVE_MUN,nombre_entidad,NOMGEO,anio,nomcicloproductivo,temp_min_ciclo_min
 16,104,Michoacán,Villamar,2016,PV,9.6,
 16,105,Michoacán,Vista Hermosa,2016,PV,10.0,6.8
 16,106,Michoacán,Yurécuaro,2016,PV,13.9,10.0
-16,108,Michoacán,Zamora,2016,PV,13.3,
-16,109,Michoacán,Zináparo,2016,PV,11.5,
+16,108,Michoacán,Zamora,2016,PV,12.9,
+16,109,Michoacán,Zináparo,2016,PV,11.0,
 16,113,Michoacán,José Sixto Verduzco,2016,PV,9.5,6.4
 17,001,Morelos,Amacuzac,2016,PV,15.8,9.3
 17,002,Morelos,Atlatlahucan,2016,PV,16.2,
@@ -3547,11 +3547,11 @@ CVE_ENT,CVE_MUN,nombre_entidad,NOMGEO,anio,nomcicloproductivo,temp_min_ciclo_min
 17,009,Morelos,Huitzilac,2016,PV,3.6,3.8
 17,011,Morelos,Jiutepec,2016,PV,15.9,13.0
 17,012,Morelos,Jojutla,2016,PV,17.2,11.9
-17,013,Morelos,Jonacatepec de Leandro Valle,2016,PV,15.9,10.2
+17,013,Morelos,Jonacatepec de Leandro Valle,2016,PV,15.6,10.2
 17,015,Morelos,Miacatlán,2016,PV,17.5,
 17,016,Morelos,Ocuituco,2016,PV,9.7,6.2
 17,017,Morelos,Puente de Ixtla,2016,PV,16.7,10.3
-17,018,Morelos,Temixco,2016,PV,17.8,14.5
+17,018,Morelos,Temixco,2016,PV,17.4,14.5
 17,019,Morelos,Tepalcingo,2016,PV,18.2,12.6
 17,021,Morelos,Tetecala,2016,PV,17.5,11.1
 17,024,Morelos,Tlaltizapán de Zapata,2016,PV,17.3,10.8
@@ -3562,13 +3562,13 @@ CVE_ENT,CVE_MUN,nombre_entidad,NOMGEO,anio,nomcicloproductivo,temp_min_ciclo_min
 17,029,Morelos,Yautepec,2016,PV,14.5,9.0
 17,030,Morelos,Yecapixtla,2016,PV,13.3,10.7
 17,031,Morelos,Zacatepec,2016,PV,17.4,10.8
-17,032,Morelos,Zacualpan de Amilpas,2016,PV,12.5,10.0
-17,033,Morelos,Temoac,2016,PV,16.1,
+17,032,Morelos,Zacualpan de Amilpas,2016,PV,12.3,10.0
+17,033,Morelos,Temoac,2016,PV,15.2,
 18,001,Nayarit,Acaponeta,2016,PV,17.8,15.6
 18,009,Nayarit,Del Nayar,2016,PV,18.2,13.6
 18,010,Nayarit,Rosamorada,2016,PV,16.5,15.5
 18,011,Nayarit,Ruíz,2016,PV,18.1,16.5
-18,015,Nayarit,Santiago Ixcuintla,2016,PV,22.6,16.0
+18,015,Nayarit,Santiago Ixcuintla,2016,PV,22.3,16.0
 18,017,Nayarit,Tepic,2016,PV,15.7,13.8
 18,020,Nayarit,Bahía de Banderas,2016,PV,18.7,16.9
 19,003,Nuevo León,Los Aldamas,2016,PV,19.6,7.0
@@ -3595,33 +3595,33 @@ CVE_ENT,CVE_MUN,nombre_entidad,NOMGEO,anio,nomcicloproductivo,temp_min_ciclo_min
 19,049,Nuevo León,Santiago,2016,PV,18.0,7.4
 20,014,Oaxaca,Ciudad Ixtepec,2016,PV,23.4,20.7
 20,039,Oaxaca,Heroica Ciudad de Huajuapan de León,2016,PV,13.4,7.5
-20,043,Oaxaca,Heroica Ciudad de Juchitán de Zaragoza,2016,PV,25.0,20.4
+20,043,Oaxaca,Heroica Ciudad de Juchitán de Zaragoza,2016,PV,24.7,20.4
 20,052,Oaxaca,Magdalena Tequisistlán,2016,PV,20.3,14.3
-20,067,Oaxaca,Oaxaca de Juárez,2016,PV,15.5,8.4
+20,067,Oaxaca,Oaxaca de Juárez,2016,PV,15.4,8.4
 20,079,Oaxaca,Salina Cruz,2016,PV,25.8,22.4
 20,083,Oaxaca,San Agustín de las Juntas,2016,PV,14.8,8.8
-20,136,Oaxaca,San Felipe Usila,2016,PV,20.6,14.5
+20,136,Oaxaca,San Felipe Usila,2016,PV,20.4,14.5
 20,173,Oaxaca,San Juan Atepec,2016,PV,11.8,7.0
 20,177,Oaxaca,San Juan Bautista Cuicatlán,2016,PV,16.2,13.1
 20,184,Oaxaca,San Juan Bautista Tuxtepec,2016,PV,21.4,16.3
-20,228,Oaxaca,San Lorenzo Cuaunecuiltitla,2016,PV,12.4,7.9
-20,262,Oaxaca,San Miguel Amatlán,2016,PV,5.9,3.5
+20,228,Oaxaca,San Lorenzo Cuaunecuiltitla,2016,PV,12.3,7.9
+20,262,Oaxaca,San Miguel Amatlán,2016,PV,5.8,3.5
 20,278,Oaxaca,San Miguel Soyaltepec,2016,PV,22.3,16.9
 20,324,Oaxaca,San Pedro Pochutla,2016,PV,23.8,21.5
-20,327,Oaxaca,San Pedro Tapanatepec,2016,PV,23.4,17.7
+20,327,Oaxaca,San Pedro Tapanatepec,2016,PV,22.7,17.7
 20,357,Oaxaca,Santa Ana Tavela,2016,PV,19.1,12.3
 20,363,Oaxaca,Santa Catarina Ixtepeji,2016,PV,11.8,6.7
 20,385,Oaxaca,Santa Cruz Xoxocotlán,2016,PV,14.4,8.3
-20,413,Oaxaca,Santa María Huatulco,2016,PV,23.4,21.4
-20,417,Oaxaca,Santa María Jacatepec,2016,PV,20.3,16.2
-20,418,Oaxaca,Santa María Jalapa del Marqués,2016,PV,21.6,19.1
+20,413,Oaxaca,Santa María Huatulco,2016,PV,22.9,21.4
+20,417,Oaxaca,Santa María Jacatepec,2016,PV,20.2,16.2
+20,418,Oaxaca,Santa María Jalapa del Marqués,2016,PV,21.5,19.1
 20,439,Oaxaca,Santa María Tonameca,2016,PV,20.0,
 20,468,Oaxaca,Santiago Jocotepec,2016,PV,22.3,16.7
 20,478,Oaxaca,Santiago Nacaltepec,2016,PV,14.2,11.7
-20,498,Oaxaca,Santiago Yaveo,2016,PV,21.8,15.7
-20,502,Oaxaca,Santiago Zacatepec,2016,PV,17.5,12.0
-20,525,Oaxaca,Santo Domingo Zanatepec,2016,PV,21.3,14.7
-20,559,Oaxaca,San Juan Bautista Valle Nacional,2016,PV,22.2,16.8
+20,498,Oaxaca,Santiago Yaveo,2016,PV,21.6,15.7
+20,502,Oaxaca,Santiago Zacatepec,2016,PV,17.4,12.0
+20,525,Oaxaca,Santo Domingo Zanatepec,2016,PV,20.9,14.7
+20,559,Oaxaca,San Juan Bautista Valle Nacional,2016,PV,21.8,16.8
 21,001,Puebla,Acajete,2016,PV,9.0,4.0
 21,003,Puebla,Acatlán,2016,PV,16.3,11.4
 21,008,Puebla,Ahuazotepec,2016,PV,6.8,1.9
@@ -3632,10 +3632,10 @@ CVE_ENT,CVE_MUN,nombre_entidad,NOMGEO,anio,nomcicloproductivo,temp_min_ciclo_min
 21,026,Puebla,Calpan,2016,PV,9.2,1.4
 21,031,Puebla,Coatzingo,2016,PV,15.7,10.3
 21,043,Puebla,Cuetzalan del Progreso,2016,PV,15.1,9.6
-21,045,Puebla,Chalchicomula de Sesma,2016,PV,8.3,3.3
+21,045,Puebla,Chalchicomula de Sesma,2016,PV,8.2,3.3
 21,051,Puebla,Chietla,2016,PV,15.6,12.2
 21,053,Puebla,Chignahuapan,2016,PV,6.4,2.0
-21,059,Puebla,Chinantla,2016,PV,17.0,11.0
+21,059,Puebla,Chinantla,2016,PV,15.6,11.0
 21,069,Puebla,Huaquechula,2016,PV,13.9,10.9
 21,071,Puebla,Huauchinango,2016,PV,13.5,7.6
 21,083,Puebla,Ixtacamaxtitlán,2016,PV,7.1,1.1
@@ -3643,7 +3643,7 @@ CVE_ENT,CVE_MUN,nombre_entidad,NOMGEO,anio,nomcicloproductivo,temp_min_ciclo_min
 21,086,Puebla,Jalpan,2016,PV,18.8,13.3
 21,094,Puebla,Libres,2016,PV,9.8,4.6
 21,098,Puebla,Molcaxac,2016,PV,6.4,5.5
-21,106,Puebla,Ocoyucan,2016,PV,6.0,5.7
+21,106,Puebla,Ocoyucan,2016,PV,5.7,5.7
 21,108,Puebla,Oriental,2016,PV,11.4,7.8
 21,114,Puebla,Puebla,2016,PV,9.2,4.2
 21,140,Puebla,San Pedro Cholula,2016,PV,9.3,4.9
@@ -3658,7 +3658,7 @@ CVE_ENT,CVE_MUN,nombre_entidad,NOMGEO,anio,nomcicloproductivo,temp_min_ciclo_min
 21,174,Puebla,Teziutlán,2016,PV,12.2,6.9
 21,180,Puebla,Tlahuapan,2016,PV,8.7,4.6
 21,184,Puebla,Tlapacoya,2016,PV,8.5,4.6
-21,186,Puebla,Tlatlauquitepec,2016,PV,5.5,1.5
+21,186,Puebla,Tlatlauquitepec,2016,PV,4.9,1.5
 21,187,Puebla,Tlaxco,2016,PV,15.1,13.5
 21,193,Puebla,Tzicatlacoyan,2016,PV,8.2,3.8
 21,194,Puebla,Venustiano Carranza,2016,PV,16.6,3.5
@@ -3739,19 +3739,19 @@ CVE_ENT,CVE_MUN,nombre_entidad,NOMGEO,anio,nomcicloproductivo,temp_min_ciclo_min
 26,065,Sonora,Tubutama,2016,PV,9.5,3.5
 26,069,Sonora,Yécora,2016,PV,2.6,-1.4
 26,070,Sonora,General Plutarco Elías Calles,2016,PV,10.1,4.7
-27,001,Tabasco,Balancán,2016,PV,23.4,17.2
-27,002,Tabasco,Cárdenas,2016,PV,23.5,18.0
+27,001,Tabasco,Balancán,2016,PV,23.3,17.2
+27,002,Tabasco,Cárdenas,2016,PV,22.9,18.0
 27,004,Tabasco,Centro,2016,PV,22.3,18.1
 27,006,Tabasco,Cunduacán,2016,PV,23.7,18.2
 27,007,Tabasco,Emiliano Zapata,2016,PV,23.6,19.5
-27,012,Tabasco,Macuspana,2016,PV,23.6,18.7
-27,015,Tabasco,Tacotalpa,2016,PV,22.5,17.3
-27,016,Tabasco,Teapa,2016,PV,23.2,18.3
-27,017,Tabasco,Tenosique,2016,PV,23.0,18.9
-29,003,Tlaxcala,Atlangatepec,2016,PV,7.8,0.7
+27,012,Tabasco,Macuspana,2016,PV,23.3,18.7
+27,015,Tabasco,Tacotalpa,2016,PV,21.6,17.3
+27,016,Tabasco,Teapa,2016,PV,23.0,18.3
+27,017,Tabasco,Tenosique,2016,PV,22.6,18.9
+29,003,Tlaxcala,Atlangatepec,2016,PV,6.3,0.7
 29,006,Tlaxcala,Calpulalpan,2016,PV,5.7,1.0
 29,007,Tlaxcala,El Carmen Tequexquitla,2016,PV,7.5,1.6
-29,008,Tlaxcala,Cuapiaxtla,2016,PV,8.6,3.4
+29,008,Tlaxcala,Cuapiaxtla,2016,PV,8.5,3.4
 29,013,Tlaxcala,Huamantla,2016,PV,7.7,2.3
 29,025,Tlaxcala,San Pablo del Monte,2016,PV,8.9,3.1
 29,033,Tlaxcala,Tlaxcala,2016,PV,9.6,5.7
@@ -3766,29 +3766,29 @@ CVE_ENT,CVE_MUN,nombre_entidad,NOMGEO,anio,nomcicloproductivo,temp_min_ciclo_min
 30,015,Veracruz,Angel R. Cabada,2016,PV,22.5,15.9
 30,016,Veracruz,La Antigua,2016,PV,22.3,16.3
 30,017,Veracruz,Apazapan,2016,PV,20.3,15.2
-30,026,Veracruz,Banderilla,2016,PV,10.2,8.2
+30,026,Veracruz,Banderilla,2016,PV,9.9,8.2
 30,028,Veracruz,Boca del Río,2016,PV,24.4,17.9
 30,032,Veracruz,Catemaco,2016,PV,19.9,14.1
 30,038,Veracruz,Coatepec,2016,PV,12.9,8.4
 30,039,Veracruz,Coatzacoalcos,2016,PV,23.0,17.3
 30,045,Oaxaca,Cosamaloapan de Carpio,2016,PV,24.7,16.2
 30,046,Veracruz,Cosautlán de Carvajal,2016,PV,17.9,12.0
-30,048,Veracruz,Cosoleacaque,2016,PV,23.7,17.5
+30,048,Veracruz,Cosoleacaque,2016,PV,23.6,17.5
 30,058,Veracruz,Chicontepec,2016,PV,20.5,12.1
 30,061,Veracruz,Las Choapas,2016,PV,21.1,16.1
 30,065,Veracruz,Emiliano Zapata,2016,PV,13.7,12.0
 30,071,Veracruz,Huatusco,2016,PV,10.8,7.8
 30,072,Veracruz,Huayacocotla,2016,PV,9.5,5.7
-30,073,Veracruz,Hueyapan de Ocampo,2016,PV,22.1,15.3
+30,073,Veracruz,Hueyapan de Ocampo,2016,PV,21.8,15.3
 30,077,Veracruz,Isla,2016,PV,22.5,16.0
 30,087,Veracruz,Xalapa,2016,PV,15.2,10.1
 30,091,Veracruz,Jesús Carranza,2016,PV,21.0,16.5
 30,093,Veracruz,Jilotepec,2016,PV,14.5,8.9
-30,097,Veracruz,Lerdo de Tejada,2016,PV,23.2,17.3
+30,097,Veracruz,Lerdo de Tejada,2016,PV,22.9,17.3
 30,100,Veracruz,Manlio Fabio Altamirano,2016,PV,22.7,17.3
 30,101,Veracruz,Mariano Escobedo,2016,PV,5.5,2.1
 30,102,Veracruz,Martínez de la Torre,2016,PV,20.6,12.1
-30,104,Veracruz,Mecayapan,2016,PV,22.5,15.7
+30,104,Veracruz,Mecayapan,2016,PV,22.1,15.7
 30,105,Veracruz,Medellín de Bravo,2016,PV,20.2,15.2
 30,108,Veracruz,Minatitlán,2016,PV,22.9,17.3
 30,109,Veracruz,Misantla,2016,PV,18.1,11.3
@@ -3801,7 +3801,7 @@ CVE_ENT,CVE_MUN,nombre_entidad,NOMGEO,anio,nomcicloproductivo,temp_min_ciclo_min
 30,132,Veracruz,Las Vigas de Ramírez,2016,PV,3.8,2.6
 30,134,Veracruz,Puente Nacional,2016,PV,22.8,17.1
 30,141,Veracruz,San Andrés Tuxtla,2016,PV,19.2,13.2
-30,143,Veracruz,Santiago Tuxtla,2016,PV,23.1,16.4
+30,143,Veracruz,Santiago Tuxtla,2016,PV,22.9,16.4
 30,155,Veracruz,Tantoyuca,2016,PV,21.1,12.5
 30,160,Veracruz,Álamo Temapache,2016,PV,20.2,11.8
 30,161,Veracruz,Tempoal,2016,PV,21.0,11.7
@@ -3817,7 +3817,7 @@ CVE_ENT,CVE_MUN,nombre_entidad,NOMGEO,anio,nomcicloproductivo,temp_min_ciclo_min
 30,191,Veracruz,Ursulo Galván,2016,PV,22.2,15.5
 31,001,Yucatán,Abalá,2016,PV,18.1,11.6
 31,010,Yucatán,Cantamayec,2016,PV,22.3,16.7
-31,013,Yucatán,Conkal,2016,PV,20.6,17.9
+31,013,Yucatán,Conkal,2016,PV,19.8,17.9
 31,015,Yucatán,Cuzamá,2016,PV,19.9,17.2
 31,019,Yucatán,Chemax,2016,PV,19.8,16.1
 31,022,Yucatán,Chikindzonot,2016,PV,19.7,14.9
@@ -4078,8 +4078,8 @@ CVE_ENT,CVE_MUN,nombre_entidad,NOMGEO,anio,nomcicloproductivo,temp_min_ciclo_min
 12,050,Guerrero,Pungarabato,2017,OI,17.4,18.1
 12,053,Guerrero,San Marcos,2017,OI,11.7,12.1
 12,055,Guerrero,Taxco de Alarcón,2017,OI,14.7,14.2
-12,057,Guerrero,Técpan de Galeana,2017,OI,20.4,20.6
-12,061,Guerrero,Tixtla de Guerrero,2017,OI,11.4,11.4
+12,057,Guerrero,Técpan de Galeana,2017,OI,20.4,20.5
+12,061,Guerrero,Tixtla de Guerrero,2017,OI,11.4,11.2
 12,066,Guerrero,Tlapa de Comonfort,2017,OI,11.9,13.7
 12,068,Michoacán,La Unión de Isidoro Montes de Oca,2017,OI,21.2,22.1
 12,070,Guerrero,Xochihuehuetlán,2017,OI,10.2,11.7
@@ -4744,8 +4744,8 @@ CVE_ENT,CVE_MUN,nombre_entidad,NOMGEO,anio,nomcicloproductivo,temp_min_ciclo_min
 12,050,Guerrero,Pungarabato,2017,PV,22.7,18.1
 12,053,Guerrero,San Marcos,2017,PV,12.6,12.1
 12,055,Guerrero,Taxco de Alarcón,2017,PV,12.7,14.2
-12,057,Guerrero,Técpan de Galeana,2017,PV,20.6,20.6
-12,061,Guerrero,Tixtla de Guerrero,2017,PV,11.1,11.4
+12,057,Guerrero,Técpan de Galeana,2017,PV,20.6,20.5
+12,061,Guerrero,Tixtla de Guerrero,2017,PV,11.1,11.2
 12,066,Guerrero,Tlapa de Comonfort,2017,PV,17.9,13.7
 12,068,Michoacán,La Unión de Isidoro Montes de Oca,2017,PV,21.3,22.1
 12,070,Guerrero,Xochihuehuetlán,2017,PV,16.8,11.7
